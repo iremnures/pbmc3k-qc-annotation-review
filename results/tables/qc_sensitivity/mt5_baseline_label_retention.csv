@@ -1,0 +1,10 @@
+manual_annotation,baseline_cells,retained_cells,retained_percent
+B cells,337,332,98.51632047477744
+Cytotoxic T candidate,319,300,94.04388714733543
+Dendritic cell candidate,35,35,100.0
+FCGR3A-associated monocytes,195,195,100.0
+FCN1/S100A9-associated monocytes,439,428,97.49430523917995
+IL7R-associated T cells,1168,1154,98.8013698630137
+NK candidate,145,145,100.0
+Platelet-associated,15,15,100.0
+Uncertain mixed-marker group,7,7,100.0

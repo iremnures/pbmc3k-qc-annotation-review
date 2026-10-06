@@ -1,0 +1,2661 @@
+cell_barcode,leiden_r10,manual_annotation,celltypist_prediction
+AAACATACAACCAC-1,0,IL7R-associated T cells,Trm cytotoxic T cells
+AAACATTGAGCTAC-1,2,B cells,B cells
+AAACATTGATCAGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AAACCGTGCTTCCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAACCGTGTATGCG-1,5,NK candidate,CD16+ NK cells
+AAACGCACTGGTAC-1,0,IL7R-associated T cells,Regulatory T cells
+AAACGCTGACCAGT-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+AAACGCTGGTTCTT-1,1,Cytotoxic T candidate,MAIT cells
+AAACGCTGTAGCCA-1,1,Cytotoxic T candidate,B cells
+AAACGCTGTTTCTG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AAACTTGAAAAACG-1,2,B cells,B cells
+AAACTTGATCCAGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AAAGAGACGAGATA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AAAGAGACGCGAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAAGAGACGGACTT-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+AAAGAGACGGCATT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAAGATCTGGGCAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAAGCAGAAGCCAT-1,1,Cytotoxic T candidate,MAIT cells
+AAAGCAGATATCGG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AAAGCCTGTATGCG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AAAGGCCTGTCTAG-1,2,B cells,B cells
+AAAGTTTGATCACG-1,2,B cells,B cells
+AAAGTTTGGGGTGA-1,2,B cells,B cells
+AAAGTTTGTAGAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAAGTTTGTAGCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAATCAACAATGCC-1,2,B cells,B cells
+AAATCAACACCAGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAATCAACCAGGAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AAATCAACCCTATT-1,4,FCGR3A-associated monocytes,Macrophages
+AAATCAACGGAAGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAATCAACTCGCAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AAATCATGACCACA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AAATCCCTCCACAA-1,6,IL7R-associated T cells,B cells
+AAATCCCTGCTATG-1,2,B cells,B cells
+AAATGTTGAACGAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAATGTTGCCACAA-1,0,IL7R-associated T cells,Regulatory T cells
+AAATGTTGTGGCAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAATTCGAAGGTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAATTCGAATCACG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAATTCGAGCTGAT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AAATTCGAGGAGTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AAATTCGATTCTCA-1,1,Cytotoxic T candidate,NK cells
+AAATTGACACGACT-1,1,Cytotoxic T candidate,MAIT cells
+AAATTGACTCGCTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AACAAACTCATTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AACAAACTTTCGTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AACAATACGACGAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AACACGTGCAGAGG-1,0,IL7R-associated T cells,Regulatory T cells
+AACACGTGGAAAGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AACACGTGGAACCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AACACGTGGCTACA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AACACGTGTACGAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AACAGCACAAGAGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AACATTGATGGGAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AACCAGTGATACCG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AACCCAGATCGCTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AACCGATGCTCCCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AACCGATGGTCATG-1,2,B cells,B cells
+AACCGATGTTCTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AACCGCCTAGCGTT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AACCGCCTCTACGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AACCTACTGTGAGG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AACCTACTGTGTTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AACCTTACGAGACG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AACCTTACGCGAGA-1,5,NK candidate,CD16+ NK cells
+AACCTTACTAACGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AACCTTTGGACGGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AACCTTTGTACGCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AACGCAACAAGTAG-1,0,IL7R-associated T cells,Regulatory T cells
+AACGCATGACCCAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AACGCATGCCTTCG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AACGCATGTACTTC-1,0,IL7R-associated T cells,Regulatory T cells
+AACGCCCTCGGGAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AACGCCCTCGTACA-1,5,NK candidate,CD16+ NK cells
+AACGCCCTGCTTAG-1,2,B cells,B cells
+AACGCCCTGGCATT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AACGTCGAGTATCG-1,5,NK candidate,CD16+ NK cells
+AACGTGTGAAAGCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AACGTGTGGCGGAA-1,2,B cells,B cells
+AACGTGTGTCCAAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AACGTGTGTGCTTT-1,0,IL7R-associated T cells,Regulatory T cells
+AACTACCTTAGAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AACTCACTCAAGCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AACTCACTTGGAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AACTCGGAAAGTGA-1,1,Cytotoxic T candidate,MAIT cells
+AACTCGGAAGGTCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AACTCTTGCAGGAG-1,0,IL7R-associated T cells,Regulatory T cells
+AACTGTCTCCCTTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AACTTGCTGGGACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGAACGAGTGTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGAAGACGTAGGG-1,2,B cells,B cells
+AAGACAGAAGTCTG-1,2,B cells,B cells
+AAGACAGAGGATCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGACAGATTACCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGAGATGGGTAGG-1,2,B cells,B cells
+AAGATGGAAAACAG-1,2,B cells,B cells
+AAGATGGAGAACTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGATGGAGATAAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGATTACAACCTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGATTACAGATCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGATTACCCGTTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGATTACCGCCTT-1,7,Dendritic cell candidate,DC
+AAGATTACCTCAAG-1,5,NK candidate,CD16+ NK cells
+AAGATTACTCCTCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGCAAGAGCGAGA-1,0,IL7R-associated T cells,Trm cytotoxic T cells
+AAGCAAGAGCTTAG-1,5,NK candidate,CD16+ NK cells
+AAGCAAGAGGTGTT-1,5,NK candidate,CD16+ NK cells
+AAGCACTGAGCAAA-1,2,B cells,B cells
+AAGCACTGCATACG-1,6,IL7R-associated T cells,NK cells
+AAGCACTGGTTCTT-1,2,B cells,B cells
+AAGCCAACGTGTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGCCATGAACTGC-1,7,Dendritic cell candidate,DC2
+AAGCCATGACACGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGCCATGCGTGAT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGCCATGTCTCGC-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+AAGCCTGACATGCA-1,0,IL7R-associated T cells,Regulatory T cells
+AAGCCTGACCGAAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGCGACTCCTCAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AAGCGACTGTGTCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AAGCGACTTACAGC-1,2,B cells,B cells
+AAGCGACTTTGACG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AAGCGTACGTCTTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AAGGCTTGCGAACT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AAGGTCACGGTTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGGTCACTGTTTC-1,2,B cells,B cells
+AAGGTCACTTCCCG-1,1,Cytotoxic T candidate,MAIT cells
+AAGGTCTGACAGTC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AAGGTCTGCAGATC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGGTCTGGTATGC-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+AAGTAACTCTGAAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AAGTAACTGAGATA-1,2,B cells,B cells
+AAGTAGGATACAGC-1,5,NK candidate,CD16+ NK cells
+AAGTATACCGAACT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGTCCGACTTGTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGTCCGATAGAAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AAGTCTCTAGTCGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AAGTCTCTCGGAGA-1,1,Cytotoxic T candidate,Trm cytotoxic T cells
+AAGTGGCTTGGAGG-1,2,B cells,B cells
+AAGTTCCTCATTCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AAGTTCCTTCTTAC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AATAAGCTCGAATC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AATAAGCTCGTTGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AATACCCTGGACGA-1,2,B cells,B cells
+AATACCCTGGCATT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AATACTGAAAGGGC-1,1,Cytotoxic T candidate,CD16+ NK cells
+AATACTGAATTGGC-1,5,NK candidate,CD16+ NK cells
+AATAGGGAACCCTC-1,2,B cells,B cells
+AATAGGGAGAATGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AATCAAACTATCGG-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+AATCCGGAATGCTG-1,2,B cells,B cells
+AATCCTACCGGTAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AATCCTTGACGGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AATCCTTGGTGAGG-1,5,NK candidate,CD16+ NK cells
+AATCGGTGGAACTC-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+AATCGGTGTGCTTT-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AATCTAGAAAAGTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AATCTAGAATCGGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AATCTCACAGCCTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AATCTCACTCTAGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AATCTCTGAACAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AATCTCTGCTTTAC-1,5,NK candidate,CD16+ NK cells
+AATGATACACCAAC-1,1,Cytotoxic T candidate,NK cells
+AATGATACGGTCAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AATGCGTGACACCA-1,2,B cells,B cells
+AATGCGTGGACGGA-1,7,Dendritic cell candidate,DC3
+AATGCGTGGCTATG-1,2,B cells,B cells
+AATGGAGAATCGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AATGGAGATCCTTA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AATGGCTGACACCA-1,2,B cells,B cells
+AATGGCTGCGTGAT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AATGGCTGTAAAGG-1,1,Cytotoxic T candidate,MAIT cells
+AATGGCTGTACTCT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AATGGCTGTGAAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AATGTAACGGTGGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AATGTAACGTTTGG-1,1,Cytotoxic T candidate,Regulatory T cells
+AATGTCCTCTTCTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AATGTTGACAGTCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AATGTTGAGTTGAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AATGTTGATCTACT-1,0,IL7R-associated T cells,Regulatory T cells
+AATTACGAATTCCT-1,7,Dendritic cell candidate,DC2
+AATTACGACTTCTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AATTACGAGTAGCT-1,1,Cytotoxic T candidate,MAIT cells
+AATTACGAGTGAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AATTACGATTGGCA-1,2,B cells,B cells
+AATTCCTGCTCAGA-1,2,B cells,B cells
+AATTGATGTCGCAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AATTGTGACTTGGA-1,2,B cells,B cells
+ACAAAGGAGGGTGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACAAATTGATTCTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACAAATTGCTCAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACAAATTGTTGCGA-1,5,NK candidate,CD16+ NK cells
+ACAACCGAGGGATG-1,1,Cytotoxic T candidate,CD16+ NK cells
+ACAACCGAGTTACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACAAGAGAAGTCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACAAGAGACTTATC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACAAGAGAGTTGAC-1,2,B cells,B cells
+ACAATCCTAACCGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACAATCCTTAGCGT-1,2,B cells,B cells
+ACAATTGACTGACA-1,1,Cytotoxic T candidate,NK cells
+ACAATTGATGACTG-1,5,NK candidate,CD16+ NK cells
+ACACAGACACCTGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACACAGACCATACG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACACCAGAGGGCAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACACCCTGGTGTTG-1,5,NK candidate,CD16+ NK cells
+ACACGAACAGTTCG-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+ACACGATGACGCAT-1,1,Cytotoxic T candidate,MAIT cells
+ACACGATGATGTGC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ACACGATGTCGTAG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACACGATGTGGTCA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACAGACACGGCATT-1,0,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+ACAGACACGTTGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACAGCAACACCTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACAGCAACCTCAAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACAGGTACCCCACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACAGGTACGCTGTA-1,1,Cytotoxic T candidate,MAIT cells
+ACAGGTACTGGTGT-1,5,NK candidate,CD16+ NK cells
+ACAGTCGACCCAAA-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+ACAGTCGACCGATA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACAGTGACTCACCC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACAGTGACTCTATC-1,1,Cytotoxic T candidate,MAIT cells
+ACAGTGTGGTCACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACAGTGTGTTGCGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACATCACTCTACTT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ACATGGTGAAGCCT-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACATGGTGCAACCA-1,2,B cells,B cells
+ACATGGTGCGAGTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACATGGTGCGTTGA-1,1,Cytotoxic T candidate,MAIT cells
+ACATTCTGGCATAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCAACGACATGCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACCACAGAAAGTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCACAGAGTTGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCACCTGTGTGCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCACGCTACAGCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCACGCTACCCAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACCACGCTGCGAGA-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+ACCACGCTGCTGTA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACCAGCCTGACAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCAGTGAACGGTT-1,2,B cells,B cells
+ACCAGTGAATACCG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACCAGTGAGGGATG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACCAGTGATGACTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACCATTACCTTCTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCATTACGAGATA-1,0,IL7R-associated T cells,Regulatory T cells
+ACCATTTGTCATTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCCAAGAACTGTG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACCCAAGAATTCCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACCCAAGAGGACAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACCCAAGATTCACT-1,2,B cells,B cells
+ACCCACTGCGCCTT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ACCCACTGGACAGG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACCCACTGGTTCAG-1,8,Platelet-associated,Megakaryocytes/platelets
+ACCCACTGTCGTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACCCAGCTCAGAAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCCAGCTTGCTTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCCGTTGATGACC-1,2,B cells,B cells
+ACCCGTTGCTGCAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCCTCGACCTATT-1,0,IL7R-associated T cells,Regulatory T cells
+ACCCTCGACGGTAT-1,2,B cells,B cells
+ACCCTCGATAAGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACCCTCGATCAAGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACCGTGCTACCAGT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+ACCGTGCTGGAACG-1,2,B cells,B cells
+ACCTATTGCTGAGT-1,2,B cells,B cells
+ACCTATTGTGCCCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACCTCCGAGTCCTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACCTCCGATATGCG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACCTCCGATGCTGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACCTCGTGAACCAC-1,1,Cytotoxic T candidate,MAIT cells
+ACCTGAGATATCGG-1,8,Platelet-associated,Classical monocytes
+ACCTGGCTAAGTAG-1,5,NK candidate,CD16+ NK cells
+ACCTGGCTGTCTTT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ACCTTTGACTCCCA-1,4,FCGR3A-associated monocytes,Classical monocytes
+ACCTTTGAGGAACG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACCTTTGAGGAAGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACGAACACCTTGTT-1,5,NK candidate,Tem/Temra cytotoxic T cells
+ACGAACTGGCTATG-1,8,Platelet-associated,Non-classical monocytes
+ACGAAGCTCTCCAC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACGAAGCTCTGAGT-1,2,B cells,B cells
+ACGACCCTATCTCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACGACCCTGATGAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACGACCCTTGACAC-1,2,B cells,B cells
+ACGACCCTTGACCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGAGGGACAGGAG-1,7,Dendritic cell candidate,DC2
+ACGAGGGACGAACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGAGGGATGTAGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACGAGTACCCTAAG-1,2,B cells,B cells
+ACGATCGAGGACTT-1,1,Cytotoxic T candidate,NK cells
+ACGATCGAGTCACA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACGATGACAATGCC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGATGACTGGTCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGATTCTACGGGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACGCAATGGTTCAG-1,5,NK candidate,CD16+ NK cells
+ACGCACCTGTTAGC-1,2,B cells,B cells
+ACGCCACTGAACTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACGCCGGAAACCAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACGCCGGAAAGCCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGCCGGAAATGCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGCCTTGCTCCCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACGCGGTGGCGAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGCGGTGTGTGGT-1,2,B cells,B cells
+ACGCGGTGTTTGCT-1,1,Cytotoxic T candidate,CD16+ NK cells
+ACGCTCACAGTACC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGCTCACCCTTGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGCTGCTGTTCTT-1,5,NK candidate,CD16+ NK cells
+ACGGAACTCAGATC-1,5,NK candidate,CD16+ NK cells
+ACGGAACTGTCGTA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACGGAGGACTCTTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACGGATTGGGAGGT-1,2,B cells,B cells
+ACGGATTGGTTAGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGGCTCTGAGCAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACGGCTCTTGCACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGGTAACCGCTAA-1,0,IL7R-associated T cells,Treg(diff)
+ACGGTAACCTTCGC-1,1,Cytotoxic T candidate,NK cells
+ACGGTAACGGTGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGGTAACTCGCAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACGGTATGAGTCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACGGTATGGGTATC-1,2,B cells,B cells
+ACGGTATGGTTGTG-1,2,B cells,B cells
+ACGGTCCTAACGGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACGGTCCTCGGGAA-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+ACGTAGACAACCAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGTAGACTACAGC-1,2,B cells,B cells
+ACGTCAGAAACGAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACGTCAGAGAGCTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACGTCAGAGGGATG-1,0,IL7R-associated T cells,Regulatory T cells
+ACGTCCTGATAAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACGTCCTGTGAACC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACGTCGCTCCTGAA-1,9,Uncertain mixed-marker group,NK cells
+ACGTCGCTTCTCAT-1,2,B cells,B cells
+ACGTGATGCCATGA-1,7,Dendritic cell candidate,DC
+ACGTGATGGGTCTA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACGTGATGTAACCG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACGTGATGTGACAC-1,5,NK candidate,CD16+ NK cells
+ACGTGCCTCCGTAA-1,0,IL7R-associated T cells,Regulatory T cells
+ACGTGCCTTCTATC-1,1,Cytotoxic T candidate,NK cells
+ACGTTACTTTCCAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACGTTGGAAAAGCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACGTTGGAAACCTG-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+ACGTTGGACCGTAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACGTTGGAGCCAAT-1,5,NK candidate,CD16+ NK cells
+ACGTTGGATATGGC-1,2,B cells,B cells
+ACGTTGGATCAGGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACGTTTACATCAGC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACTAAAACCCACAA-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+ACTAAAACTCGACA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACTACGGAATTTCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACTACGGACCTATT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTACGGATCGCTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTACTACTAAGGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACTAGGTGGAACCT-1,1,Cytotoxic T candidate,Tem/Effector helper T cells
+ACTAGGTGGAACTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTATCACCTTGGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACTATCACTGCCAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTCAGGACTGAAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTCAGGATCTATC-1,2,B cells,B cells
+ACTCAGGATTCGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACTCCTCTCAACTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ACTCGCACGAAAGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACTCGCACTACGAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACTCTCCTGACACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTCTCCTGCATAC-1,0,IL7R-associated T cells,MEMP
+ACTCTCCTGTTTGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTGAGACAACCAC-1,1,Cytotoxic T candidate,MAIT cells
+ACTGAGACCCATAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACTGAGACGTTGGT-1,2,B cells,B cells
+ACTGCCACACACGT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ACTGCCACTCCGTC-1,5,NK candidate,CD16+ NK cells
+ACTGGCCTTCAGTG-1,5,NK candidate,CD16+ NK cells
+ACTGTGGACGTGTA-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+ACTGTTACCCACAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACTGTTACTGCAGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACTTAAGAACCACA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACTTAAGACCACAA-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+ACTTAAGATTACTC-1,7,Dendritic cell candidate,DC
+ACTTAGCTGCGTAT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACTTAGCTGGGAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTTCAACAAGCAA-1,0,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+ACTTCAACGTAGGG-1,5,NK candidate,CD16+ NK cells
+ACTTCCCTTTCCGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTTCTGACATGCA-1,2,B cells,B cells
+ACTTGACTCCACAA-1,2,B cells,B cells
+ACTTGGGAGAAAGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACTTGGGAGGTTTG-1,0,IL7R-associated T cells,Regulatory T cells
+ACTTGGGATGTGAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ACTTGGGATTGACG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ACTTGTACCCGAAT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ACTTGTACCTGTCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTTTGTGCGATAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTTTGTGGAAAGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ACTTTGTGGATAGA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+AGAAACGAAAGTAG-1,2,B cells,B cells
+AGAAAGTGCGCAAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGAAAGTGGGGATG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGAACAGAAATGCC-1,5,NK candidate,CD16+ NK cells
+AGAACAGACGACTA-1,2,B cells,B cells
+AGAACAGAGACAAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGAACGCTTTGCTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGAAGATGTGACTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGAATGGAAGAAGT-1,1,Cytotoxic T candidate,Regulatory T cells
+AGAATTTGTAACCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGAATTTGTAGAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGACACACTGTAGC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGACACTGTCAAGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGACCTGAAGTAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGACCTGACCAACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGACCTGAGGAAGC-1,1,Cytotoxic T candidate,MAIT cells
+AGACGTACAGAGGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGACGTACCCCTAC-1,2,B cells,B cells
+AGACGTACCTCTTA-1,3,FCN1/S100A9-associated monocytes,CD16- NK cells
+AGACGTACTCGTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGACTGACCATCAG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGACTGACCCTTTA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGACTTCTCATGCA-1,2,B cells,B cells
+AGAGATGACAGTCA-1,2,B cells,B cells
+AGAGATGACTGAAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGAGATGAGGTTTG-1,3,FCN1/S100A9-associated monocytes,Macrophages
+AGAGATGATCTCGC-1,2,B cells,B cells
+AGAGATGATTGTGG-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGAGCGGAGGCAAG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+AGAGGTCTACAGCT-1,9,Uncertain mixed-marker group,Tem/Trm cytotoxic T cells
+AGAGTCTGGTCGTA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGAGTGCTCAGCTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGAGTGCTCGAATC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGAGTGCTGTCATG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGAGTGCTGTCCTC-1,1,Cytotoxic T candidate,MAIT cells
+AGAGTGCTGTGTTG-1,2,B cells,B cells
+AGATATACCCGTAA-1,5,NK candidate,CD16+ NK cells
+AGATATACGATGAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGATATACTGTTCT-1,2,B cells,B cells
+AGATATTGCCTACC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGATATTGGCCAAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGATCGTGTCTGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGATCGTGTTTGTC-1,2,B cells,B cells
+AGATCTCTATCACG-1,2,B cells,B cells
+AGATTAACGTTCTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGATTCCTATCGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGATTCCTCACTTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGATTCCTGACGAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGATTCCTGTTCAG-1,5,NK candidate,CD16+ NK cells
+AGCAAAGATATGCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCACAACAGTCTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGCACTGAGGGAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCACTGATATGCG-1,0,IL7R-associated T cells,Regulatory T cells
+AGCACTGATGCTTT-1,7,Dendritic cell candidate,DC
+AGCACTGATTGCGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCATCGAAGATCC-1,0,IL7R-associated T cells,Regulatory T cells
+AGCATCGAAGGGTG-1,2,B cells,B cells
+AGCATCGAGCTTCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGCATCGAGTGAGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGCATCGATAACCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGCATGACGATGAA-1,1,Cytotoxic T candidate,NK cells
+AGCCAATGGGGAGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGCCAATGTATCTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCCACCTGGATCT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGCCGGTGCCAATG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCCGGTGTGTTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCCGTCTCAATCG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGCCGTCTGAGAGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCCTCACGTTCGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGCCTCACTGTCAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGCCTCTGCAGTTG-1,2,B cells,B cells
+AGCCTCTGCCAATG-1,5,NK candidate,CD16+ NK cells
+AGCGAACTGGATCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGCGAACTTACTGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCGATACGGAGCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGCGATTGAGATCC-1,5,NK candidate,CD16+ NK cells
+AGCGCCGAATCTCT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+AGCGCCGACAGAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCGCTCTACCTTT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCGGCACCGGGAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCGGCTGATGTGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCGGGCTTGCCAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCGTAACATGCTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGCGTAACTGAGAA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+AGCTCGCTACTGGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCTCGCTCTGCTC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGCTGAACCATACG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGCTGAACCTCTCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCTGCCTTGGGAG-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+AGCTGCCTTTCATC-1,0,IL7R-associated T cells,Regulatory T cells
+AGCTGCCTTTCTGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGCTGTGATCCAAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGCTTTACAAGTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGCTTTACACCAAC-1,1,Cytotoxic T candidate,NK cells
+AGCTTTACTCTCAT-1,2,B cells,B cells
+AGGAAATGAGGAGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGAACCTCTTAGG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGGAACCTTGCCTC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGGAATGATAACGC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGGAATGATTTGTC-1,0,IL7R-associated T cells,Regulatory T cells
+AGGAGTCTGGTTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGAGTCTTGTCAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGATAGACATTTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGGATAGAGGATTC-1,1,Cytotoxic T candidate,NKT cells
+AGGATGCTACTAGC-1,2,B cells,B cells
+AGGATGCTTTAGGC-1,5,NK candidate,CD16+ NK cells
+AGGCAACTGAAGGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGCAGGAGTACCA-1,1,Cytotoxic T candidate,MAIT cells
+AGGCCTCTAGTCGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGCCTCTCGGAGA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGGCCTCTCGTAAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGGACGACGTTGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGGACGAGTCAAC-1,5,NK candidate,CD16+ NK cells
+AGGGACGAGTTGTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGGACGATAGAGA-1,1,Cytotoxic T candidate,MAIT cells
+AGGGACGATGCATG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGGGAGTGAGCCTA-1,0,IL7R-associated T cells,Regulatory T cells
+AGGGCCACCATACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGGCGCTATGGTC-1,0,IL7R-associated T cells,Regulatory T cells
+AGGGTGGACAGTCA-1,2,B cells,B cells
+AGGGTGGACTCAAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGGGTGGAGTTGCA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGGGTTTGTTCATC-1,3,FCN1/S100A9-associated monocytes,MNP
+AGGTCATGAGTGTC-1,2,B cells,B cells
+AGGTCATGCTTATC-1,1,Cytotoxic T candidate,MAIT cells
+AGGTCTGATTCTCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGGTGGGAAGAATG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGTGGGAAGTTCG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGGTGTTGGTTACG-1,2,B cells,B cells
+AGGTTCGAACCTCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGGTTCGAACGTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGGTTCGAGGGTGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGTAAGGAGTTTGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGTAAGGATTCTTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGTAATACATCACG-1,5,NK candidate,CD16+ NK cells
+AGTAATACCGAACT-1,2,B cells,B cells
+AGTAATTGTCCCAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTACGTGAGGGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTACGTGCTGCAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTACGTGCTTGGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTACTCTACGTGT-1,2,B cells,B cells
+AGTACTCTCAACCA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGTACTCTCGGTAT-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGTAGGCTTGCCTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGTATAACTTGTCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGTATCCTAGAACA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGTCACGATGAGCT-1,5,NK candidate,CD16+ NK cells
+AGTCAGACGAATAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGTCAGACGCTTAG-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+AGTCAGACTAGAGA-1,1,Cytotoxic T candidate,MAIT cells
+AGTCAGACTGCACA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGTCCAGATATCTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTCCAGATTTCAC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+AGTCGAACCAACCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTCGCCTCCGTAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTCTACTAGGGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGTCTACTTGCATG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGTCTTACACCACA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGTCTTACTTCGCC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGTCTTACTTCGGA-1,8,Platelet-associated,Megakaryocytes/platelets
+AGTGACTGCAACTG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+AGTGTTCTAACCTG-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+AGTGTTCTATAAGG-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+AGTGTTCTCACTTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGTTAAACCACTTT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTTATGAACAGTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGTTATGACTGAGT-1,0,IL7R-associated T cells,Type 17 helper T cells
+AGTTATGAGTTCAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTTCTACCAGCTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+AGTTCTTGAAGCCT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGTTGTCTACTACG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+AGTTTAGATGGTCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGTTTCACGGTCTA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+AGTTTGCTACAGTC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+AGTTTGCTACTGGT-1,1,Cytotoxic T candidate,CD16+ NK cells
+AGTTTGCTCCAAGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATAAACACAGTGCT-1,2,B cells,B cells
+ATAAACACCACCAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATAACAACATGCTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATAACAACGTCTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATAACAACTTTGTC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATAACATGTACTCT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATAACCCTGTTGGT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ATAACCCTTGGTAC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATAAGTACGAATGA-1,2,B cells,B cells
+ATAAGTTGGTACGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATAAGTTGTCTAGG-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+ATAATCGAGCTGAT-1,2,B cells,B cells
+ATAATCGATGGTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATAATGACCTACTT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATAATGACTCGTGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATACAATGTTAGGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATACCACTCGTACA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATACCACTCTAAGC-1,7,Dendritic cell candidate,DC2
+ATACCACTGCCAAT-1,1,Cytotoxic T candidate,CD16+ NK cells
+ATACCGGAATGCTG-1,7,Dendritic cell candidate,DC
+ATACCGGACATTTC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ATACCGGACTTCGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATACCGGAGGTGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATACCGGATCTCGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATACCTACGCATCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATACCTTGGGGCAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATACGGACAGACTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATACGGACCTACTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATACGGACGAGGTG-1,2,B cells,B cells
+ATACGGACTATGCG-1,2,B cells,B cells
+ATACGGACTCTGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATACGTCTTAACGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATACTCTGCTTCGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATACTCTGGTATGC-1,5,NK candidate,CD16+ NK cells
+ATAGATACCATGGT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATAGATACGACGAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATAGATTGGTGTAC-1,2,B cells,B cells
+ATAGCCGAACGGAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATAGCGTGCAGATC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATAGCGTGCCCTTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATAGCGTGGTATCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATAGCGTGTCTCTA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATAGCTCTCTGATG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATAGCTCTGAGGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATAGGAGAAACAGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATAGGCTGTCAGAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATAGTCCTAGTGTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATAGTCCTTGCATG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ATAGTCCTTGTCGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATAGTTGACAACTG-1,6,IL7R-associated T cells,Regulatory T cells
+ATAGTTGACCCTCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATAGTTGAGACGTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATAGTTGATAAGCC-1,6,IL7R-associated T cells,Regulatory T cells
+ATATACGAAGCCAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATATACGAATTGGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATATAGTGGAATGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATATGCCTAGATCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATATGCCTGGACAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATATGCCTTCTCTA-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+ATATGCCTTGGTAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCAAATGAGCCTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCAAATGGGTAAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATCAACCTAAACGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCAACCTGAGGAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCAACCTTCTCTA-1,1,Cytotoxic T candidate,MAIT cells
+ATCACACTTTGTCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCACGGATTGCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCACGGATTTCGT-1,2,B cells,B cells
+ATCATCTGACACCA-1,8,Platelet-associated,Megakaryocytes/platelets
+ATCATGCTAGAGTA-1,1,Cytotoxic T candidate,Regulatory T cells
+ATCATGCTGAACCT-1,2,B cells,B cells
+ATCCAGGACGCTAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATCCAGGATGGAAA-1,6,IL7R-associated T cells,Regulatory T cells
+ATCCATACTCCTTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCCATACTTCATC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATCCCGTGCAGTCA-1,5,NK candidate,CD16+ NK cells
+ATCCCGTGCATGCA-1,2,B cells,B cells
+ATCCCGTGGCTGAT-1,2,B cells,B cells
+ATCCGCACGCATCA-1,2,B cells,B cells
+ATCCTAACGACGGA-1,2,B cells,B cells
+ATCCTAACGCTACA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ATCGACGAAACTGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCGACGAATGACC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATCGAGTGGACGTT-1,1,Cytotoxic T candidate,NK cells
+ATCGCAGAATCTCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATCGCAGAGTGTCA-1,2,B cells,B cells
+ATCGCCACTGAGGG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ATCGCCTGGGTCAT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCGCCTGTGGCAT-1,2,B cells,B cells
+ATCGCGCTCAGAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCGCGCTGGGATG-1,0,IL7R-associated T cells,Regulatory T cells
+ATCGCGCTTTTCGT-1,2,B cells,B cells
+ATCGGAACCAGTCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCGGTGAGTCAAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCGGTGATTGCAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCGTTTGCCTACC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCGTTTGGGTACT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCGTTTGTGCCAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCTACACCCGCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCTACACCGGGAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATCTCAACAGGAGC-1,2,B cells,B cells
+ATCTCAACCTCGAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCTCAACCTTGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCTGGGAAACCAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCTGGGAAGTGTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATCTGGGATTCCGC-1,1,Cytotoxic T candidate,MAIT cells
+ATCTGTTGAACGGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATCTGTTGACCTCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATCTGTTGCCTTCG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATCTGTTGGTTGCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATCTTGACACCAAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATCTTGACCTCCCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATCTTTCTGCATCA-1,6,IL7R-associated T cells,B cells
+ATCTTTCTGTTTCT-1,1,Cytotoxic T candidate,Trm cytotoxic T cells
+ATCTTTCTTGTCCC-1,5,NK candidate,CD16+ NK cells
+ATGAAACTCTGTGA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATGAAACTGAGGCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGAAGGAACAGCT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+ATGAAGGACCTGTC-1,2,B cells,B cells
+ATGAAGGACCTTAT-1,2,B cells,B cells
+ATGAAGGACTAGTG-1,2,B cells,B cells
+ATGAAGGACTTGCC-1,5,NK candidate,CD16+ NK cells
+ATGACGTGACGACT-1,2,B cells,B cells
+ATGACGTGATCGGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATGAGAGAAAGTGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGAGAGAACGCAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGAGAGAAGTAGA-1,2,B cells,B cells
+ATGAGCACACAGCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATGAGCACATCTTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGATAACTTCACT-1,5,NK candidate,CD16+ NK cells
+ATGATATGAAACAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGATATGACTGGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGATATGAGCACT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGATATGGTCATG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGATATGGTGCTA-1,5,NK candidate,CD16+ NK cells
+ATGATATGTTGTCT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ATGCACGAATGTCG-1,2,B cells,Naive B cells
+ATGCACGACTGTAG-1,0,IL7R-associated T cells,Regulatory T cells
+ATGCACGAGTTCGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGCACGATTGGTG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ATGCAGTGTTACCT-1,2,B cells,B cells
+ATGCAGTGTTCTAC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATGCCAGAACGACT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGCCAGACAGTCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATGCCGCTTGAACC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATGCGATGCTATGG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ATGCGATGCTGAGT-1,6,IL7R-associated T cells,B cells
+ATGCGATGGTTACG-1,2,B cells,B cells
+ATGCGCCTTCATTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGCTTTGCGAATC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGCTTTGGGCGAA-1,1,Cytotoxic T candidate,NK cells
+ATGCTTTGTAGTCG-1,2,B cells,B cells
+ATGGACACATCGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGGACACGCATCA-1,5,NK candidate,CD16+ NK cells
+ATGGGTACAACCTG-1,2,B cells,B cells
+ATGGGTACATCGGT-1,5,NK candidate,CD16+ NK cells
+ATGGGTACTATTCC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGGGTACTGGGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGTAAACACCTCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGTAAACCCGCTT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGTAAACGGGATG-1,7,Dendritic cell candidate,Classical monocytes
+ATGTAAACTCTCCG-1,0,IL7R-associated T cells,MAIT cells
+ATGTAAACTTCACT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATGTACCTCAGTCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATGTACCTTAGTCG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATGTACCTTTATCC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+ATGTACCTTTCACT-1,1,Cytotoxic T candidate,NK cells
+ATGTCACTAATGCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATGTCACTCTGCTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGTCGGAGGTGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGTTCACAGTCTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATGTTCACCGTAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATGTTGCTTTCAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATTAACGATGAGAA-1,5,NK candidate,CD16+ NK cells
+ATTAACGATGCAAC-1,1,Cytotoxic T candidate,NKT cells
+ATTAAGACTGCAGT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATTACCTGCCTTAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATTACCTGGAGGAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATTACCTGGGCATT-1,2,B cells,B cells
+ATTAGATGTTTCAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATTATGGAATCTCT-1,0,IL7R-associated T cells,Regulatory T cells
+ATTCAAGAACGGGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATTCAAGACCTTTA-1,0,IL7R-associated T cells,Regulatory T cells
+ATTCAGCTCATTGG-1,8,Platelet-associated,Megakaryocytes/platelets
+ATTCCAACCATTGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATTCCAACTTAGGC-1,5,NK candidate,CD16+ NK cells
+ATTCGACTCACTAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATTCGACTGAATAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATTCGACTTTTGTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATTCGGGAAAGGCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATTCGGGATTAGGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATTCTTCTGATACC-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+ATTGAATGGACGGA-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+ATTGATGAAGGTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+ATTGATGACTGAGT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+ATTGATGAGCGAAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATTGATGATCTATC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATTGCACTGACGGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATTGCACTGAGAGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATTGCACTGGAGCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+ATTGCACTTAGCCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATTGCACTTGCTTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATTGCTTGTTACTC-1,2,B cells,B cells
+ATTGGTCTGACTAC-1,2,B cells,B cells
+ATTGGTCTTGTCTT-1,2,B cells,B cells
+ATTGTAGATTCCCG-1,7,Dendritic cell candidate,DC
+ATTGTAGATTGCAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATTGTCTGCGTACA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+ATTTAGGAACCATG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATTTAGGACAGAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATTTCCGAGATGAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATTTCCGAGTGCTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+ATTTCGTGTATGGC-1,1,Cytotoxic T candidate,NK cells
+ATTTCTCTACTTTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATTTCTCTAGCAAA-1,0,IL7R-associated T cells,Regulatory T cells
+ATTTCTCTCACTTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+ATTTCTCTTCCCAC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+ATTTGCACAAGATG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAAAGCACAGCTCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAAAGCACCGTAAC-1,2,B cells,B cells
+CAAAGCACGGTAAA-1,5,NK candidate,gamma-delta T cells
+CAAAGCTGAAAGTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CAAAGCTGTTGCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAAATATGTGACAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAAATTGAGGGCAA-1,6,IL7R-associated T cells,Regulatory T cells
+CAAATTGATGGAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAACCAGAAAAGTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CAACCAGAAGTGCT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CAACCAGAGTTCAG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CAACCAGATAGAAG-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+CAACCGCTGTTCAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAACCGCTTTGAGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAACGATGCGCAAT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CAACGTGACTCCAC-1,3,FCN1/S100A9-associated monocytes,Mono-mac
+CAACGTGAGCCATA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CAACGTGATCAAGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAAGAAGACCACAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CAAGAAGACGTCTC-1,4,FCGR3A-associated monocytes,Classical monocytes
+CAAGAAGATTCTAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAAGACTGACCTGA-1,2,B cells,B cells
+CAAGACTGAGTAGA-1,2,B cells,B cells
+CAAGCTGACCATAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CAAGCTGATCTATC-1,1,Cytotoxic T candidate,NK cells
+CAAGGACTGTTCAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CAAGGACTTCTTTG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CAAGGTTGCTCCAC-1,0,IL7R-associated T cells,Regulatory T cells
+CAAGGTTGTCATTC-1,2,B cells,B cells
+CAAGGTTGTCTGGA-1,5,NK candidate,CD16+ NK cells
+CAAGTCGAAACAGA-1,2,B cells,B cells
+CAAGTCGATAGCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAATAAACGCCATA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAATAATGAACTGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAATATGACATGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAATATGACCTTCG-1,1,Cytotoxic T candidate,NK cells
+CAATATGACGTTAG-1,6,IL7R-associated T cells,Regulatory T cells
+CAATATGAGGAGCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CAATCGGAGAAACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAATCTACTGACTG-1,5,NK candidate,CD16+ NK cells
+CAATTCACCCAACA-1,1,Cytotoxic T candidate,NKT cells
+CAATTCACGATAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAATTCACTTGTGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAATTCTGCTTGTT-1,3,FCN1/S100A9-associated monocytes,Monocytes
+CAATTCTGGCGTAT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CACAACGATACGAC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CACAATCTTGTTCT-1,0,IL7R-associated T cells,CD8a/a
+CACAATCTTTCCAT-1,1,Cytotoxic T candidate,MAIT cells
+CACACCTGCTTGAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACACCTGTATGGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACAGAACCTGATG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CACAGATGGGATTC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CACAGATGGTTTCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CACAGCCTGATACC-1,1,Cytotoxic T candidate,Regulatory T cells
+CACAGCCTTGCCAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CACAGCCTTGTAGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CACAGTGATGAAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CACATACTACAGCT-1,1,Cytotoxic T candidate,CD16+ NK cells
+CACATGGAACACGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CACATGGAAGTCGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACCACTGCCAACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACCACTGGCGAAG-1,1,Cytotoxic T candidate,NK cells
+CACCCATGTTCTGT-1,6,IL7R-associated T cells,Treg(diff)
+CACCGGGAATCGAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CACCGGGACGAGAG-1,1,Cytotoxic T candidate,NK cells
+CACCGGGACGTGTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACCGGGACTTCTA-1,0,IL7R-associated T cells,Regulatory T cells
+CACCGGGACTTGCC-1,1,Cytotoxic T candidate,NK cells
+CACCGGGATTCGGA-1,1,Cytotoxic T candidate,NK cells
+CACCGTACTAAGGA-1,2,B cells,B cells
+CACCGTACTAGCGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CACCTGACACCCAA-1,1,Cytotoxic T candidate,NK cells
+CACCTGACCAGAAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CACCTGACCTCAAG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CACCTGACGAAAGT-1,2,B cells,B cells
+CACCTGACTCGTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACGAAACTTCCGC-1,2,B cells,B cells
+CACGACCTCGATAC-1,2,B cells,B cells
+CACGCTACAGAAGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACGCTACTGTTCT-1,2,B cells,B cells
+CACGCTACTTGACG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CACGGGACAGAGTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CACGGGACATAAGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACGGGACGTAGGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CACGGGTGCTTCGC-1,1,Cytotoxic T candidate,NK cells
+CACGGGTGGAGGAC-1,1,Cytotoxic T candidate,CD16- NK cells
+CACGGGTGTGTTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACTAACTCCTAAG-1,2,B cells,B cells
+CACTAACTGAAAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CACTAGGATGATGC-1,2,B cells,B cells
+CACTATACCCCGTT-1,2,B cells,B cells
+CACTATACGTTTGG-1,1,Cytotoxic T candidate,NK cells
+CACTGAGACAGTCA-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+CACTGCACTTCATC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CACTGCTGAGACTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CACTGCTGGAAAGT-1,0,IL7R-associated T cells,Regulatory T cells
+CACTTAACCGAATC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CACTTAACCGTACA-1,2,B cells,B cells
+CACTTTGACTCTAT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CACTTTGAGCTGTA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CAGAAGCTCTCAAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CAGACATGAACGGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGACATGTCGACA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CAGACCCTAAGGTA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CAGACCCTAATGCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGACCCTAGGAGC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CAGACTGAGTATGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGATCGAATGTCG-1,2,B cells,B cells
+CAGATCGACCTGAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CAGATCGATATGGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGATGACATTCTC-1,5,NK candidate,CD16+ NK cells
+CAGCAATGCCTTCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGCAATGGAGGGT-1,5,NK candidate,CD16+ NK cells
+CAGCAATGGTGCTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGCAATGTCTACT-1,3,FCN1/S100A9-associated monocytes,Monocytes
+CAGCAATGTGACCA-1,0,IL7R-associated T cells,Regulatory T cells
+CAGCAATGTGAGGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAGCACCTAAGCCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGCACCTAGGCGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CAGCACCTGTAGGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAGCATGACAACCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAGCATGAGACGTT-1,1,Cytotoxic T candidate,MAIT cells
+CAGCCTACCCAACA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CAGCCTTGCTACCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAGCCTTGGGGACA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CAGCGGACACCCTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGCGGACCTTTAC-1,5,NK candidate,CD16+ NK cells
+CAGCGTCTAAAGCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGCGTCTTATCGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CAGCTAGATGTGAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAGCTCTGAGGCGA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CAGCTCTGCAAGCT-1,1,Cytotoxic T candidate,Trm cytotoxic T cells
+CAGCTCTGTCGTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAGCTCTGTGTGGT-1,5,NK candidate,CD16+ NK cells
+CAGGAACTAACTGC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CAGGAACTCTCAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CAGGCCGAACACCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGGCCGAACACGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGGCCGAACGACT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CAGGCCGAATCTCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CAGGCCGACTAGCA-1,2,B cells,B cells
+CAGGGCACCATACG-1,2,B cells,B cells
+CAGGGCACCCAACA-1,6,IL7R-associated T cells,B cells
+CAGGGCACTCCCGT-1,0,IL7R-associated T cells,Regulatory T cells
+CAGGTAACAGACTC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CAGGTATGAGTCGT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+CAGGTATGTGCTTT-1,0,IL7R-associated T cells,Regulatory T cells
+CAGGTTGAGGATCT-1,2,B cells,B cells
+CAGTGATGGACGGA-1,2,B cells,B cells
+CAGTGATGGCTAAC-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+CAGTGATGGGACAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGTGATGTAAGGA-1,2,B cells,B cells
+CAGTGATGTACGCA-1,2,B cells,B cells
+CAGTGTGAACACGT-1,1,Cytotoxic T candidate,CD16+ NK cells
+CAGTGTGATGTCAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGTTACTAAGGTA-1,2,B cells,B cells
+CAGTTACTGATAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGTTGGAAAGAGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CAGTTGGACATACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CAGTTTACACACGT-1,5,NK candidate,CD16+ NK cells
+CAGTTTACCCCAAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATAAAACGGAGCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CATAAATGAACTGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CATAACCTTCTCCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CATACTACCTCGAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATACTACCTGAAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CATACTACGTACCA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CATAGTCTAATCGC-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+CATAGTCTCACTTT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CATATAGACTAAGC-1,7,Dendritic cell candidate,DC
+CATATAGATCAGGT-1,2,B cells,B cells
+CATCAACTAGAAGT-1,0,IL7R-associated T cells,Regulatory T cells
+CATCAACTCCCTCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CATCAGGACTTCCG-1,5,NK candidate,CD16+ NK cells
+CATCAGGATAGCCA-1,5,NK candidate,CD16+ NK cells
+CATCAGGATCCTAT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CATCAGGATGCACA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CATCAGGATTTCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CATCATACCGCATA-1,4,FCGR3A-associated monocytes,Classical monocytes
+CATCATACGGAGCA-1,2,B cells,B cells
+CATCATACTCAAGC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATCGCTGGGATCT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CATCGCTGTGGCAT-1,2,B cells,B cells
+CATCGGCTATGCTG-1,0,IL7R-associated T cells,Regulatory T cells
+CATCGGCTTTGGCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CATCTCCTATGTGC-1,2,B cells,B cells
+CATCTCCTCGAACT-1,4,FCGR3A-associated monocytes,Classical monocytes
+CATGAGACACGGGA-1,2,B cells,B cells
+CATGAGACGTTGAC-1,5,NK candidate,CD16+ NK cells
+CATGAGACTCGCCT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+CATGCCACGGGTGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATGCCACTGCCAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CATGCGCTAGTCAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CATGCGCTCAGATC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CATGCGCTTTGCAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CATGGCCTAGGGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CATGGCCTGTGCAT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATGTACTATCGTG-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+CATGTTACAGTCGT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CATGTTACCTGAGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATGTTTGGGGATG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CATTACACACGGAG-1,2,B cells,Naive B cells
+CATTACACCAACTG-1,5,NK candidate,CD16+ NK cells
+CATTACACGGAGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CATTACACTACTCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATTAGCTCCACAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CATTGACTAGCGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CATTGGGACTCGAA-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+CATTGTACAGCGTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATTGTACTCGATG-1,2,B cells,B cells
+CATTGTACTTATCC-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+CATTGTACTTTGCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CATTGTTGCTAGTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATTTCGACTCTAT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CATTTCGAGATACC-1,5,NK candidate,CD16+ NK cells
+CATTTGACCACACA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CATTTGACCCTGAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CATTTGTGACGACT-1,2,B cells,B cells
+CATTTGTGCATTGG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATTTGTGCGGAGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CATTTGTGGGATCT-1,2,B cells,B cells
+CCAAAGTGCTACGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCAAAGTGTGAGAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCAACCTGAAGTAG-1,1,Cytotoxic T candidate,Regulatory T cells
+CCAACCTGACGTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCAAGAACCCAATG-1,0,IL7R-associated T cells,Regulatory T cells
+CCAAGAACGTAGCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAAGAACGTGTCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAAGAACTACTGG-1,1,Cytotoxic T candidate,NK cells
+CCAAGAACTCCTAT-1,2,B cells,Tem/Trm cytotoxic T cells
+CCAAGATGTCATTC-1,0,IL7R-associated T cells,Regulatory T cells
+CCAAGATGTTTCAC-1,6,IL7R-associated T cells,Regulatory T cells
+CCAAGTGAGGAACG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCAAGTGATCAAGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAATGGAACAGCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCAATTTGAACGTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCACCATGAACGTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCACCATGATCGGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCACCATGGACGAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCACCATGGGGAGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCACCATGTCCTGC-1,1,Cytotoxic T candidate,NK cells
+CCACTGACCCGCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCACTGTGGGAAGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCACTGTGTGTAGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCACTTCTCGGGAA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CCAGAAACCCTGTC-1,2,B cells,B cells
+CCAGAAACGAACTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CCAGAAACGGTCTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAGACCTCTGAGT-1,3,FCN1/S100A9-associated monocytes,B cells
+CCAGACCTTGTGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAGCACTGCGATT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCAGCGGAAAGGCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCAGCGGACGACTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCAGCGGATGGGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAGCTACACAGTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAGCTACCAGCTA-1,2,B cells,B cells
+CCAGGTCTACACCA-1,2,B cells,B cells
+CCAGGTCTAGCATC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCAGGTCTATGGTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAGTCACACTGGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCAGTCACACTGTG-1,2,B cells,B cells
+CCAGTCACGTTGTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCAGTGCTAACCAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCAGTGCTCGTAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCATCCGAAAGCAA-1,1,Cytotoxic T candidate,Double-positive thymocytes
+CCATCCGAACGACT-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+CCATCCGAAGGTTC-1,2,B cells,B cells
+CCATCCGATTCGCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCATCGTGAACGGG-1,0,IL7R-associated T cells,Regulatory T cells
+CCATCGTGCTAGAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCCAACACCTCGCT-1,2,B cells,B cells
+CCCAACACGCATCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCCAACACTTTGTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCCAACTGCAATCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCCAGACTGCCTTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCCAGACTGGTTTG-1,2,B cells,B cells
+CCCAGACTTTCGCC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCCAGTTGCAGTTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCCAGTTGGGTACT-1,1,Cytotoxic T candidate,Tem/Effector helper T cells
+CCCAGTTGTCTATC-1,2,B cells,Naive B cells
+CCCGATTGTGTTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCCGGAGAAGGGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCCTACGAATTGGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCCTAGTGCAAAGA-1,0,IL7R-associated T cells,B cells
+CCCTCAGACACTTT-1,2,B cells,B cells
+CCCTCAGACGAGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCCTCAGAGGTCAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCCTGAACTAAAGG-1,2,B cells,B cells
+CCCTGATGCAACCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCCTGATGCAAGCT-1,2,B cells,B cells
+CCCTTACTAACCAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCCTTACTGCAGTT-1,1,Cytotoxic T candidate,MAIT cells
+CCGAAAACCTTGTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCGACACTGGTTTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCGACTACCCAGTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCGACTACCGTGTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCGACTACTGAGGG-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCGATAGACCTAAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCGATAGAGTTGGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCGCGAGACACACA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCGCGAGAGGTTCA-1,1,Cytotoxic T candidate,MAIT cells
+CCGCTATGGGACGA-1,2,B cells,Naive B cells
+CCGCTATGTGCAAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCGCTATGTGCACA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCGGTACTGTCCTC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCGTACACAAGCAA-1,6,IL7R-associated T cells,Follicular helper T cells
+CCGTACACAGCGTT-1,2,B cells,B cells
+CCGTACACGTCATG-1,1,Cytotoxic T candidate,NKT cells
+CCGTACACGTTGGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCGTACACTAACGC-1,1,Cytotoxic T candidate,MAIT cells
+CCTAAACTTTCGTT-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCTAAGGACCCAAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCTAAGGACTAGCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCTAAGGAGGGCAA-1,6,IL7R-associated T cells,MAIT cells
+CCTAAGGATGATGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCTAAGGATGTCAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCTACCGACTCTTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCTACCGAGGGATG-1,2,B cells,B cells
+CCTAGAGAGGTGAG-1,2,B cells,B cells
+CCTATAACCAAAGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCTATAACGAGACG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCTATAACTCAGAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCTATAACTGCATG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCTCGAACACTTTC-1,5,NK candidate,CD16+ NK cells
+CCTCGAACCCGTAA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CCTCGAACGTATCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CCTCGAACTTACTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CCTCTACTCTTCGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCTCTACTGGCATT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCTGACTGAAGTAG-1,1,Cytotoxic T candidate,MAIT cells
+CCTGACTGGGGAGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CCTGACTGTGTCTT-1,2,B cells,B cells
+CCTGCAACACGTTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCTGGACTCGTGAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCTTAATGCCCAAA-1,2,B cells,Naive B cells
+CCTTAATGTTCTAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CCTTCACTACGACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CCTTCACTCAGTCA-1,2,B cells,B cells
+CCTTCACTGGAGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CCTTTAGATTCATC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGAACATGCCCTAC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CGAACATGTCAGAC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGAAGACTGGAACG-1,1,Cytotoxic T candidate,MAIT cells
+CGAAGACTGTTACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGAAGGGAAACCTG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CGAAGGGATCCGAA-1,2,B cells,B cells
+CGAAGTACCAACTG-1,2,B cells,B cells
+CGAATCGAGGAGCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGAATCGAGGAGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGACAAACCCATAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGACAAACCGACAT-1,2,B cells,B cells
+CGACCACTAAAGTG-1,5,NK candidate,CD16+ NK cells
+CGACCACTGCCAAT-1,5,NK candidate,CD16+ NK cells
+CGACCGGAAGGTCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGACCGGATGGAAA-1,0,IL7R-associated T cells,Regulatory T cells
+CGACCTTGCTAGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGACGTCTATCGTG-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+CGACGTCTCGTGTA-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+CGACGTCTGAGGCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGACTCACGTCGTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGACTCACGTTGCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGACTCTGTGTGAC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGACTGCTTCCTCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGAGAACTAAGGCG-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+CGAGAACTACGTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGAGAACTTGTTCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGAGATTGGACACT-1,1,Cytotoxic T candidate,Double-positive thymocytes
+CGAGATTGGCCATA-1,1,Cytotoxic T candidate,NK cells
+CGAGCCGAACACCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGAGCCGACGACAT-1,1,Cytotoxic T candidate,MAIT cells
+CGAGCCGAGGCGAA-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+CGAGCGTGCTCCAC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGAGCGTGGATACC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGAGCGTGTATGCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGAGGAGACCTCCA-1,2,B cells,B cells
+CGAGGAGATGTCGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGAGGCACCTATGG-1,1,Cytotoxic T candidate,NK cells
+CGAGGCACTATGCG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CGAGGCACTCTTCA-1,1,Cytotoxic T candidate,MAIT cells
+CGAGGCTGACGCTA-1,5,NK candidate,CD16+ NK cells
+CGAGGCTGGCAGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGAGGGCTACGACT-1,2,B cells,B cells
+CGAGGGCTCGAATC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGAGTATGTCACCC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CGATACGAACAGTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGATACGACAGGAG-1,9,Uncertain mixed-marker group,Cycling T cells
+CGATACGATTCACT-1,2,B cells,B cells
+CGATAGACCCGTAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGATAGACCGTACA-1,0,IL7R-associated T cells,Regulatory T cells
+CGATAGACGTAGGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGATAGACTGTTCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGATCAGAAGAACA-1,1,Cytotoxic T candidate,NK cells
+CGATCAGAGAGGGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGATCAGAGGTACT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGATCAGATGTGAC-1,7,Dendritic cell candidate,pDC
+CGATCCACCGGGAA-1,1,Cytotoxic T candidate,MAIT cells
+CGATCCACTTCCAT-1,2,B cells,B cells
+CGCAAATGCTCGAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCAACCTCCTTGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGCAACCTGGACGA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGCACGGAGGACGA-1,2,B cells,B cells
+CGCACGGATCTTTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGCACTACAGAATG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCACTACAGCCAT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGCACTACATTGGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCACTACTCGCCT-1,2,B cells,B cells
+CGCACTACTCGTGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CGCACTTGTCACGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGCAGGACAGATCC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CGCAGGACCTACTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCAGGACTTGTCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CGCAGGTGCACTGA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGCAGGTGCCATAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CGCAGGTGGGAACG-1,0,IL7R-associated T cells,Regulatory T cells
+CGCATAGATCACGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGCCATACTGCAAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCCATTGAGAGGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCCATTGCTATGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCCATTGGAGACG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGCCATTGGAGCAG-1,2,B cells,B cells
+CGCCATTGTACTGG-1,2,B cells,B cells
+CGCCGAGAGCTTAG-1,5,NK candidate,CD16+ NK cells
+CGCCTAACGAATGA-1,7,Dendritic cell candidate,Classical monocytes
+CGCCTAACTGCTCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGCGAGACACAGCT-1,6,IL7R-associated T cells,Regulatory T cells
+CGCGAGACAGGTCT-1,2,B cells,B cells
+CGCGAGACGCTACA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGCGATCTCAGTCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGCGATCTGTTGAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGCGATCTTTCTTG-1,2,B cells,Memory B cells
+CGCGGATGGCCAAT-1,0,IL7R-associated T cells,Regulatory T cells
+CGCTAAGAATGTCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCTAAGACAACTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGCTAAGACCCTTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGCTACTGAACAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGCTACTGAGAACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCTACTGTGAGCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGCTACTGTTCCCG-1,1,Cytotoxic T candidate,NK cells
+CGCTCATGCATTTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGGAATTGCACTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGGAATTGGTTTGG-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+CGGAATTGTGGAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGGACCGATGCGTA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CGGACCGATGGGAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGGACTCTAAACAG-1,2,B cells,B cells
+CGGACTCTCCAATG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGGACTCTCCTCGT-1,5,NK candidate,NK cells
+CGGAGGCTATTCCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGGAGGCTTGGATC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGGATAACAACGAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGGATAACAGCTCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGGATAACTCAGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGGCACGAACTCAG-1,1,Cytotoxic T candidate,MAIT cells
+CGGCACGAAGGGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGGCACGACTACGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CGGCATCTTAGAAG-1,1,Cytotoxic T candidate,Tem/Effector helper T cells
+CGGCATCTTCGTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGGCCAGAAAGGTA-1,0,IL7R-associated T cells,Regulatory T cells
+CGGCCAGAGAGGCA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CGGCGAACCAGTCA-1,4,FCGR3A-associated monocytes,Classical monocytes
+CGGCGAACGACAAA-1,5,NK candidate,CD16+ NK cells
+CGGCGAACGGTCTA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGGCGAACTACTTC-1,5,NK candidate,CD16+ NK cells
+CGGGACTGCGTGTA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGGGACTGGAATAG-1,1,Cytotoxic T candidate,NK cells
+CGGGCATGACCCAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CGGGCATGTCTCTA-1,1,Cytotoxic T candidate,NK cells
+CGGGCATGTTGTGG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGGTAAACTCGCAA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGGTCACTGTTTGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGGTCACTTACTTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGTAACGAATCAGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTAACGATCGCCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTACCACACACAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTACCACACGTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTACCACCTCATT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTACCACGCTACA-1,6,IL7R-associated T cells,MAIT cells
+CGTACCACGGAGCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTACCTGGCATCA-1,5,NK candidate,CD16+ NK cells
+CGTAGCCTCTCTCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGTAGCCTGCGAAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CGTAGCCTGTATGC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CGTCAAGAAAGGTA-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+CGTCAAGAACGTGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTCAAGACAGAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTCAAGACAGGAG-1,1,Cytotoxic T candidate,NK cells
+CGTCCATGCTCTTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTCGACTTTCCGC-1,1,Cytotoxic T candidate,MAIT cells
+CGTGATGACGCTAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CGTGATGAGGTTCA-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+CGTGCACTTATGGC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CGTGTAGAAAAACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTGTAGACGATAC-1,1,Cytotoxic T candidate,CD16- NK cells
+CGTGTAGAGTTACG-1,5,NK candidate,CD16+ NK cells
+CGTGTAGAGTTCAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGTGTAGATTCGGA-1,5,NK candidate,CD16+ NK cells
+CGTTAGGAAACCAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CGTTAGGATCATTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CGTTATACCCTGAA-1,1,Cytotoxic T candidate,Regulatory T cells
+CGTTTAACTGGTCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTAAACCTCTGACA-1,5,NK candidate,CD16+ NK cells
+CTAAACCTGTGCAT-1,2,B cells,B cells
+CTAACACTAACGTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTAACACTAGTGCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTAACGGAACCGAT-1,5,NK candidate,CD16+ NK cells
+CTAACGGATTTCTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTAACTACGGCAAG-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+CTAAGGACACCATG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTAAGGACCGTTAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTAAGGACGCCATA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTAAGGTGCCTAAG-1,2,B cells,B cells
+CTAAGGTGTTGCAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTAAGGTGTTTCTG-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+CTAATAGAGCTATG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTAATGCTTGTGGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTACAACTCCCGTT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CTACCTCTCAACCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTACGCACACCTAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTACGCACTCTCCG-1,0,IL7R-associated T cells,Regulatory T cells
+CTACGCACTGGTCA-1,5,NK candidate,NKT cells
+CTACGGCTTTCTTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTACTATGAACCAC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CTACTATGATGTGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTACTATGCTAAGC-1,6,IL7R-associated T cells,Trm cytotoxic T cells
+CTACTATGTAAAGG-1,2,B cells,B cells
+CTACTCCTATGTCG-1,5,NK candidate,CD16+ NK cells
+CTACTCCTGCCATA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTAGAGACACTTTC-1,0,IL7R-associated T cells,Regulatory T cells
+CTAGAGACAGCATC-1,1,Cytotoxic T candidate,NK cells
+CTAGAGACTTTGGG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTAGATCTCTCTAT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTAGATCTTCGACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTAGGATGAGCCTA-1,2,B cells,B cells
+CTAGGATGATCGTG-1,2,B cells,B cells
+CTAGGCCTCTCAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTAGGTGATGGTTG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTAGTTACCAGAGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTAGTTACCGCATA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTAGTTACGAAACA-1,5,NK candidate,CD16+ NK cells
+CTAGTTTGAGTACC-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+CTATAAGATCGTTT-1,2,B cells,B cells
+CTATACTGAGGTTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTATACTGCCAGTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTATACTGCGCTAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTATACTGCTACGA-1,5,NK candidate,CD16+ NK cells
+CTATACTGTCTCAT-1,5,NK candidate,CD16+ NK cells
+CTATACTGTTCGTT-1,0,IL7R-associated T cells,HSC/MPP
+CTATAGCTGTCACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTATAGCTTCGCTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTATAGCTTGCCTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTATCAACGAACTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTATCAACGCAGAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTATCAACTTTGGG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTATCCCTCCACCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTATGTACGAGAGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTATGTACGCTTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTATGTTGAAAGCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTATGTTGTCCTCG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTATGTTGTCTCGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTATTGACAAACGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTATTGACACTGGT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CTATTGACGGTGAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTATTGTGGCAAGG-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+CTCAATTGGTTCAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTCAATTGGTTGCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTCAGAGATAGAAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTCAGCACTCTAGG-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTCAGCACTGAACC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTCAGCACTTGCAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTCAGCTGCAGTTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTCAGCTGTTTCTG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CTCAGGCTCGTTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTCAGGCTGCTAAC-1,6,IL7R-associated T cells,Regulatory T cells
+CTCATTGACCTTAT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTCATTGATGCTTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTCCACGAGAGATA-1,7,Dendritic cell candidate,Macrophages
+CTCCATCTCTTAGG-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+CTCCATCTGACGAG-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTCCGAACAAGTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTCCTACTGCCTTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTCGAAGATGTGGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTCGAAGATTAGGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTCGACTGCTCTAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTCGACTGGGTGAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTCGACTGGTTGAC-1,5,NK candidate,CD16+ NK cells
+CTCGAGCTCTGGAT-1,1,Cytotoxic T candidate,NK cells
+CTCGCATGACTTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTCGCATGCTTAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTCTAAACCTCGAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTCTAAACGGCGAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTCTAATGTCCAAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTGAACGACAGTCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGAACGATGAGGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGAAGACCCAACA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTGAAGACGTGCAT-1,2,B cells,B cells
+CTGAAGTGAAGCCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTGAAGTGCAGCTA-1,2,B cells,B cells
+CTGAAGTGGCTATG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGAAGTGTCCAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGAATCTGAATAG-1,0,IL7R-associated T cells,Regulatory T cells
+CTGACAGAATCGTG-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+CTGACCACAGCAAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGAGAACCGGGAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTGAGAACGTAAAG-1,5,NK candidate,CD16+ NK cells
+CTGATACTAGTAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGATTTGGTGTTG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CTGCAGCTAACCGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTGCAGCTGACACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGCAGCTGGATTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTGCAGCTTGGCAT-1,1,Cytotoxic T candidate,MAIT cells
+CTGCCAACAGGAGC-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+CTGCCAACCAGCTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGCCAACTAACCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTGCCAACTGCTCC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CTGCCAACTTGCAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGCCAACTTGCTT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CTGCGACTCCACCT-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+CTGGAAACAAACGA-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+CTGGAAACATCGAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGGATGACTGGAT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CTGGATGACTTGTT-1,0,IL7R-associated T cells,Regulatory T cells
+CTGGATGATGTGAC-1,2,B cells,B cells
+CTGGCACTCAAGCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTGGCACTGGACAG-1,1,Cytotoxic T candidate,MAIT cells
+CTGTAACTAACCAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGTAACTAGCGTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGTATACGTAAAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGTATACGTACGT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+CTGTATACGTTGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTGTGAGACAACCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTGTGAGACCTTGC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CTGTGAGACGAACT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTGTGAGACTGTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+CTTAAAGAACCTGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTAACACCTGTAG-1,0,IL7R-associated T cells,Treg(diff)
+CTTAACACGAGCTT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTTAACACTATCGG-1,2,B cells,B cells
+CTTAAGCTACCTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTAAGCTAGTACC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+CTTAAGCTCATCAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTAAGCTCCGCTT-1,2,B cells,B cells
+CTTAAGCTTCCTCG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+CTTACAACTAACGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTACAACTCCCGT-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+CTTACTGACGTACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTAGACTAAACGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTAGGGACTTGCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+CTTAGGGAGAATCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTATCGACTCATT-1,0,IL7R-associated T cells,Regulatory T cells
+CTTCACCTACCTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+CTTCATGAAGCATC-1,2,B cells,Naive B cells
+CTTCATGAAGTACC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTCATGACCGAAT-1,6,IL7R-associated T cells,MAIT cells
+CTTGAACTACGCAT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+CTTGATTGAGGTTC-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+CTTGATTGATCTTC-1,8,Platelet-associated,Classical monocytes
+CTTGATTGCATTCT-1,0,IL7R-associated T cells,Regulatory T cells
+CTTGATTGTTTCGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTGTATGACACCA-1,2,B cells,B cells
+CTTGTATGCGCAAT-1,2,B cells,B cells
+CTTTACGAGCGAAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTTAGACCGTGAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTTAGACGAGACG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTTAGACGATACC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTTAGACGTTGGT-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+CTTTAGACTCATTC-1,1,Cytotoxic T candidate,Regulatory T cells
+CTTTAGTGACGGGA-1,5,NK candidate,CD16+ NK cells
+CTTTAGTGGGTGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTTCAGAGAAACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTTGATGAGCACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTTGATGTCTAGG-1,1,Cytotoxic T candidate,MAIT cells
+CTTTGATGTGTCCC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+CTTTGATGTGTGGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAAACAGAACTACG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAAACAGAATCACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAAACAGACATTCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAAACCTGATCGTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAAACCTGATGCCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAAACCTGCTTATC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GAAACCTGGACTAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GAAACCTGTGCTAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAAAGATGATTTCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GAAAGATGCTGATG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GAAAGATGCTTCGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAAAGATGTAAGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAAAGATGTTTGCT-1,1,Cytotoxic T candidate,MAIT cells
+GAAAGCCTACGTTG-1,2,B cells,B cells
+GAAAGTGAAAGTGA-1,7,Dendritic cell candidate,Regulatory T cells
+GAAAGTGACCACAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAAAGTGACTCAAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GAAATACTACCAAC-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+GAAATACTCTTAGG-1,2,B cells,B cells
+GAAATACTTCCTCG-1,0,IL7R-associated T cells,Regulatory T cells
+GAACACACGTGCAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAACACACTGCCTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAACAGCTAACTGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GAACAGCTCTCAGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GAACCAACCACAAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAACCAACTTCCGC-1,5,NK candidate,CD16+ NK cells
+GAACCTGAACGTGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAACCTGAGAGACG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAACCTGATGAACC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAACGGGATACTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAACGTTGACGGAG-1,1,Cytotoxic T candidate,Trm cytotoxic T cells
+GAACTGTGACCTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GAACTGTGCCAGTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAAGAATGCAATCG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAAGCGGACCTATT-1,4,FCGR3A-associated monocytes,Classical monocytes
+GAAGCTACGAATGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAAGCTACGGTTTG-1,0,IL7R-associated T cells,Regulatory T cells
+GAAGGGTGAAAGTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GAAGGGTGCTTAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAAGGTCTGAAAGT-1,0,IL7R-associated T cells,Regulatory T cells
+GAAGGTCTGTTGCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAAGGTCTTAAAGG-1,7,Dendritic cell candidate,DC
+GAAGTAGACTCCCA-1,1,Cytotoxic T candidate,NK cells
+GAAGTAGATCCAAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GAAGTCACCCTCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAAGTCACCCTGTC-1,2,B cells,B cells
+GAAGTCTGTCGCAA-1,2,B cells,B cells
+GAAGTCTGTTCTGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAAGTGCTAAACGA-1,5,NK candidate,CD16+ NK cells
+GAAGTGCTCCGCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAAGTGCTTAACCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAATGCACCCTAAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAATGCACCTTCGC-1,5,NK candidate,CD16+ NK cells
+GAATGCTGCGGTAT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAATTAACGATAAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAATTAACGGTCAT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+GAATTAACGTCGTA-1,5,NK candidate,CD16+ NK cells
+GAATTAACTGAAGA-1,2,B cells,B cells
+GACAACACAGGCGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GACAACACATCGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GACAACACTCGCCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GACAACTGAGGTTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GACAGGGAAGAGTA-1,2,B cells,B cells
+GACAGGGAATGCCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GACAGTACGAGCTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GACAGTACTTCGGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GACAGTTGAGTAGA-1,2,B cells,B cells
+GACATTCTCCACCT-1,7,Dendritic cell candidate,DC
+GACCAAACGACTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GACCAAACGTATCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GACCATGACTCTCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GACCCTACTAAAGG-1,2,B cells,B cells
+GACCTAGACCTCAC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GACCTAGACGAGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GACCTCACAAGGTA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GACCTCACGTACGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GACCTCTGCATCAG-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GACGAACTCCCACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GACGATTGCCAATG-1,2,B cells,B cells
+GACGCCGACCTTCG-1,0,IL7R-associated T cells,Regulatory T cells
+GACGCTCTCTCTCG-1,8,Platelet-associated,Megakaryocytes/platelets
+GACGGCACACGGGA-1,5,NK candidate,CD16+ NK cells
+GACGGCACGAGATA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GACGTAACCTATGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GACGTAACCTGTGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GACGTAACTATGGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GACGTATGTTGACG-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GACGTATGTTTGCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GACGTCCTCTCAAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GACGTCCTGATAAG-1,2,B cells,B cells
+GACTACGATGGTCA-1,2,B cells,B cells
+GACTCCTGCTCGCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GACTCCTGGGTTAC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GACTCCTGTTATCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GACTCCTGTTGGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GACTGAACAACCGT-1,2,B cells,B cells
+GACTGAACCAATCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GACTGATGTGATGC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GACTTTACATGCCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GACTTTACGACAGG-1,2,B cells,B cells
+GAGAAATGTTCTCA-1,2,B cells,B cells
+GAGATAGAAAAAGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAGATCACGACAAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GAGATGCTCTGGAT-1,1,Cytotoxic T candidate,MAIT cells
+GAGATGCTGAATGA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GAGCAGGATTCCCG-1,1,Cytotoxic T candidate,MAIT cells
+GAGCGCACGCGTAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAGCGCACGGTGAG-1,1,Cytotoxic T candidate,MAIT cells
+GAGCGCTGAAGATG-1,5,NK candidate,CD16+ NK cells
+GAGCGCTGTCTTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAGCGGCTGGGAGT-1,2,B cells,B cells
+GAGGACGACTCAGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GAGGATCTGAAAGT-1,2,B cells,B cells
+GAGGCAGACTTGCC-1,1,Cytotoxic T candidate,NK cells
+GAGGGAACACCAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAGGGAACGAGGGT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GAGGGATGGGAAAT-1,0,IL7R-associated T cells,Regulatory T cells
+GAGGGCCTTCACCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GAGGGTGAAGAGTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAGGTACTACGGTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAGGTACTACTCAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAGGTACTGGGAGT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+GAGGTACTTAGCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAGGTGGAGTACGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAGGTGGATCCTCG-1,5,NK candidate,CD16+ NK cells
+GAGGTTACTCGTTT-1,3,FCN1/S100A9-associated monocytes,Monocytes
+GAGGTTTGTAAGCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAGTCAACCATTCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAGTCAACGGGAGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAGTCTGATCGTGA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAGTCTGATTTGGG-1,2,B cells,B cells
+GAGTGACTCAGCTA-1,0,IL7R-associated T cells,Regulatory T cells
+GAGTGACTCGGTAT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GAGTGACTCTTGCC-1,2,B cells,B cells
+GAGTGACTGACTAC-1,2,B cells,B cells
+GAGTGACTGTCTAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GAGTGGGAGTCTTT-1,2,B cells,B cells
+GAGTGGGATGCCCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GAGTGGGATGCTGA-1,2,B cells,B cells
+GAGTGTTGCTGTAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GAGTGTTGTGGTCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GAGTTGTGCATGGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAGTTGTGCTGAGT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GAGTTGTGGCGAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GAGTTGTGGTAGCT-1,8,Platelet-associated,Megakaryocytes/platelets
+GAGTTGTGTATGCG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GATAAGGAGAAACA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATAAGGATTCACT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATACTCTATCGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATACTCTTACTTC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GATACTCTTGACTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATAGAGAAGGGTG-1,5,NK candidate,NKT cells
+GATAGAGACTGTGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATAGAGATCACGA-1,7,Dendritic cell candidate,Monocytes
+GATAGCACCCATAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATAGCACGAAGGC-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+GATAGCACTTGTCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GATATAACAAGGTA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GATATAACACGCAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GATATATGCTGGAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GATATATGTCCGTC-1,1,Cytotoxic T candidate,NKT cells
+GATATCCTAGAAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATATCCTCCCGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATATTGACAGGAG-1,1,Cytotoxic T candidate,MAIT cells
+GATATTGACGAGTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GATATTGAGCCAAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GATCCCTGACCTTT-1,5,NK candidate,CD16+ NK cells
+GATCCCTGTGTAGC-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+GATCCGCTGGTCAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATCGAACCGAGAG-1,0,IL7R-associated T cells,MAIT cells
+GATCGATGACTAGC-1,2,B cells,B cells
+GATCGATGGTAAAG-1,2,B cells,B cells
+GATCGATGTAAGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATCGTGACACTAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATCGTGATTCACT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GATCTACTGGTGAG-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+GATCTACTTTGCAG-1,2,B cells,B cells
+GATCTTACACCCAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GATCTTACCCTACC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATCTTACGAATAG-1,3,FCN1/S100A9-associated monocytes,Monocytes
+GATCTTACGAGATA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATGCAACTCCAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATGCCCTACGTAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATGCCCTCTCATT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GATGCCCTGGCAAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATGCCCTTTTGCT-1,6,IL7R-associated T cells,Regulatory T cells
+GATTACCTTGTTCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GATTCGGAACGACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GATTCGGACAGGAG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+GATTCGGAGAAGGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GATTCTTGATTCGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATTCTTGCCGATA-1,6,IL7R-associated T cells,T(agonist)
+GATTCTTGCGAGTT-1,2,B cells,B cells
+GATTGGACGGTGTT-1,2,B cells,B cells
+GATTGGACTTTCGT-1,2,B cells,B cells
+GATTGGTGTGTCAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GATTTAGACACTCC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GATTTAGACTAAGC-1,2,B cells,B cells
+GATTTAGATTCGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GATTTGCTAACGAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GATTTGCTAACGGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCAACCCTCCTCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCAACTGATTGCGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCAAGACTACTGGT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GCAAGACTAGGTCT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GCAAGACTCCCTTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAATCGACTGCAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GCAATCGAGACGTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GCAATCGATCCTTA-1,4,FCGR3A-associated monocytes,Classical monocytes
+GCAATTCTCGTGTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAATTCTTCTCCG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCACAAACAATGCC-1,1,Cytotoxic T candidate,MAIT cells
+GCACAAACGGTACT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GCACAATGGTGCAT-1,7,Dendritic cell candidate,DC
+GCACACCTGTGCTA-1,5,NK candidate,CD16+ NK cells
+GCACCACTCATGAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCACCACTGTTTGG-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+GCACCACTTCCTTA-1,5,NK candidate,CD16+ NK cells
+GCACCACTTTCGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCACCTACGCGATT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GCACCTTGGCTGTA-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+GCACCTTGGGGAGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GCACGGACCAGCTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCACGGTGACCTCC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCACGGTGCTATGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCACTAGAACGGGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCACTAGAAGATGA-1,2,B cells,B cells
+GCACTAGACCTTTA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+GCACTAGACGTAAC-1,2,B cells,B cells
+GCACTAGAGTCGTA-1,1,Cytotoxic T candidate,NK cells
+GCACTAGATGCAAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCACTGCTGAGGCA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCAGATACAGCGTT-1,1,Cytotoxic T candidate,MAIT cells
+GCAGATACGACGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAGATACGCAGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAGCCGACAGTCA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCAGCGTGCACTCC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAGCTCTCAATCG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAGCTCTGTTTCT-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCAGGGCTAAGAAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAGGGCTAAGGGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAGGGCTATCGAC-1,5,NK candidate,CD16+ NK cells
+GCAGGGCTTGGGAG-1,1,Cytotoxic T candidate,MAIT cells
+GCAGTCCTAACTGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCAGTCCTCTCTTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCATCAGATGCGTA-1,1,Cytotoxic T candidate,Type 1 helper T cells
+GCATGTGACAAGCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCATTGGAGAAGGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCCAAAACGAGGCA-1,1,Cytotoxic T candidate,MAIT cells
+GCCAAATGATCGAC-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+GCCAACCTACGGTT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCCAACCTCGCCTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCCACGGAGGCGAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCCACGGATACTGG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCCACTACCTACTT-1,2,B cells,B cells
+GCCACTACGTCTTT-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+GCCCAACTACCGAT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCCCAACTATGGTC-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+GCCCATACAGCGTT-1,0,IL7R-associated T cells,Cycling T cells
+GCCGACGAACTCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCCGAGTGCGTTGA-1,1,Cytotoxic T candidate,Tem/Effector helper T cells
+GCCGGAACGAACTC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GCCGGAACGTTCTT-1,5,NK candidate,CD16+ NK cells
+GCCGGAACTGCACA-1,1,Cytotoxic T candidate,CD16+ NK cells
+GCCGGAACTTACTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCCGTACTACCTGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCCGTACTGGCAAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCCTACACAGTTCG-1,5,NK candidate,CD16+ NK cells
+GCCTACACCACTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GCCTACACCTTGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCCTAGCTACGGAG-1,2,B cells,B cells
+GCCTAGCTCTATTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GCCTAGCTTCTCAT-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCCTAGCTTCTCTA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GCCTCAACCATGGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCCTCAACTCTTTG-1,9,Uncertain mixed-marker group,Tem/Trm cytotoxic T cells
+GCCTCATGTCTTAC-1,1,Cytotoxic T candidate,Regulatory T cells
+GCCTGACTCTCAAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCGAAGGAACTCTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCGAAGGAGAGCTT-1,9,Uncertain mixed-marker group,Double-positive thymocytes
+GCGAAGGATGCCAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCGAGAGAGGGACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCGAGCACTGTCGA-1,2,B cells,B cells
+GCGAGCACTTGACG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCGAGCACTTGCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCGATATGGTACGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCGATATGGTGTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCGCACGAAGTCGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCGCACGACTTTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCGCATCTAGGTCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCGCATCTGGTTAC-1,8,Platelet-associated,B cells
+GCGCATCTTCGATG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCGCATCTTGCTCC-1,5,NK candidate,CD16+ NK cells
+GCGCATCTTTCTAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCGCGAACGTTCTT-1,2,B cells,B cells
+GCGCGATGAACGGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCGCGATGGTGCAT-1,5,NK candidate,CD16+ NK cells
+GCGGAGCTCCTGAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCGGCAACCCGATA-1,0,IL7R-associated T cells,Regulatory T cells
+GCGGCAACGGAGGT-1,2,B cells,B cells
+GCGGCAACTGTCGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCGTAAACACGGTT-1,7,Dendritic cell candidate,DC2
+GCGTAATGCACCAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GCGTATGAACACCA-1,0,IL7R-associated T cells,Regulatory T cells
+GCGTATGATGAGAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCTACAGAAAGGTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCTACAGAATCTTC-1,2,B cells,B cells
+GCTACAGATCTTAC-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+GCTACCTGAGAAGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCTACCTGATCACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCTACGCTAGAATG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCTACGCTAGCTAC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GCTACGCTCCCTAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCTAGAACAGAGGC-1,2,B cells,B cells
+GCTAGAACGGATCT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GCTAGAACTCCCGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCTAGATGAGCTCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCTAGATGGCGATT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GCTATACTAAGGCG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GCTATACTAGCGTT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GCTATACTCTCTTA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GCTATACTGGACGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GCTCAAGAACCATG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GCTCAAGAAGTCAC-1,4,FCGR3A-associated monocytes,Classical monocytes
+GCTCAGCTGTCTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCTCCATGAGAAGT-1,1,Cytotoxic T candidate,NK cells
+GCTCCATGCCGAAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCTCGACTCTAGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCTGATGAGGTATC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCTTAACTACAGTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCTTAACTACTGGT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GCTTAACTGCTGAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GCTTAACTTAGACC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GCTTAACTTCAGTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGAACACTCACTTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGAACACTTCAGAC-1,8,Platelet-associated,Megakaryocytes/platelets
+GGAACTACTACTTC-1,0,IL7R-associated T cells,Regulatory T cells
+GGAACTTGAAGGTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGAACTTGAGAATG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GGAACTTGCTCCAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGAACTTGGGTAGG-1,2,B cells,B cells
+GGAAGGACATCGGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGAAGGACCACTAG-1,0,IL7R-associated T cells,Type 1 helper T cells
+GGAAGGACGAGGGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGAAGGACGCGAAG-1,0,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+GGAAGGTGGCGAGA-1,5,NK candidate,CD16+ NK cells
+GGAATCTGAAGGGC-1,6,IL7R-associated T cells,Regulatory T cells
+GGAATCTGAGGAGC-1,0,IL7R-associated T cells,Regulatory T cells
+GGAATCTGCTTAGG-1,2,B cells,B cells
+GGAATCTGCTTGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGAATCTGGGAGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGAATGCTTTCTAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGACAGGAAAGGGC-1,1,Cytotoxic T candidate,MAIT cells
+GGACAGGAGTGCTA-1,2,B cells,B cells
+GGACAGGATCTCGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGACCCGAAGCTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGACCGTGCTTACT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGACCGTGGGAACG-1,7,Dendritic cell candidate,DC2
+GGACCGTGTAACGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGACCTCTGTAAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGACCTCTTTTCTG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GGACGAGAGTGTCA-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+GGACGCTGACGCAT-1,1,Cytotoxic T candidate,MAIT cells
+GGACGCTGCTAGCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGACGCTGTCCTCG-1,5,NK candidate,CD16+ NK cells
+GGAGCAGATTCAGG-1,2,B cells,B cells
+GGAGCCACCTTCTA-1,2,B cells,B cells
+GGAGCGCTACGCAT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GGAGCGCTCCGAAT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGAGGATGCCACCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGAGGATGGTTGAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGAGGATGTCAGTG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+GGAGGCCTCGTTGA-1,5,NK candidate,CD16+ NK cells
+GGAGGCCTTTCTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGAGGTGATACGCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGAGGTGATCGCTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGATACTGCAGCTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGATACTGTCTAGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGATAGCTCGTCTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGATAGCTCTGAAC-1,1,Cytotoxic T candidate,Regulatory T cells
+GGATGTACCAAAGA-1,2,B cells,B cells
+GGATGTACGCGAAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGATGTACGTCTTT-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+GGATGTACGTGTCA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GGATTTCTAGGTTC-1,0,IL7R-associated T cells,Regulatory T cells
+GGATTTCTTTGTCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GGCAAGGAAAAAGC-1,5,NK candidate,CD16+ NK cells
+GGCAAGGAAGAAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCAAGGACTTGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGCAAGGAGGACTT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCAATACGCTAAC-1,2,B cells,B cells
+GGCAATACGGCATT-1,1,Cytotoxic T candidate,B cells
+GGCAATACGTTTCT-1,2,B cells,B cells
+GGCACGTGGCTTAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GGCACGTGTGAGAA-1,9,Uncertain mixed-marker group,B cells
+GGCACTCTTTTGTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCATATGCTTATC-1,5,NK candidate,CD16+ NK cells
+GGCATATGGGGAGT-1,8,Platelet-associated,Megakaryocytes/platelets
+GGCATATGTGTGAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCCACGACAGAGG-1,6,IL7R-associated T cells,Regulatory T cells
+GGCCAGACTGGTTG-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GGCCCAGAAAGTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGCCGAACAACGAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCCGAACGCAGAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCCGAACGTAGGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCCGAACTCTAGG-1,5,NK candidate,CD16+ NK cells
+GGCCGATGCAGGAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGCCGATGCCGAAT-1,0,IL7R-associated T cells,Regulatory T cells
+GGCCGATGTACTCT-1,1,Cytotoxic T candidate,MAIT cells
+GGCGACTGCGTAAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCGCATGCCTAAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GGCGCATGCTCCAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCGCATGTGGAAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GGCGGACTAGAGGC-1,0,IL7R-associated T cells,Regulatory T cells
+GGCGGACTAGGAGC-1,1,Cytotoxic T candidate,MAIT cells
+GGCGGACTCTGACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCGGACTCTTGGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GGCGGACTTACTGG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GGCGGACTTGAACC-1,6,IL7R-associated T cells,Regulatory T cells
+GGCTAAACACCTGA-1,1,Cytotoxic T candidate,NK cells
+GGCTAAACTCTTAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCTAATGAGCACT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GGCTAATGGTCTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGCTCACTACTCAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGGAACGAAGCTCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GGGAACGACACAAC-1,2,B cells,Naive B cells
+GGGAACGAGTGTCA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+GGGAAGTGTTGAGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGGACCACACGTTG-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+GGGACCACAGAACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGGACCACGAATAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGGACCACGTCATG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GGGACCACTCAAGC-1,6,IL7R-associated T cells,CD16- NK cells
+GGGACCACTCGTGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGGACCACTGCATG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGGACCTGACCCTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGGACCTGCTTGCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGGACCTGTGGAGG-1,2,B cells,B cells
+GGGATGGACGACAT-1,2,B cells,B cells
+GGGATGGATACTTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGGATGGATGGTTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGGATTACGTCTAG-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GGGCAAGATGCATG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGGCACACGTTGCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGGCAGCTTGGGAG-1,1,Cytotoxic T candidate,MAIT cells
+GGGCAGCTTTTCTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGGCCAACCTTGGA-1,7,Dendritic cell candidate,DC1
+GGGCCAACGCGTTA-1,2,B cells,B cells
+GGGCCAACTACGCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGGCCAACTCCAAG-1,2,B cells,B cells
+GGGCCATGATGGTC-1,1,Cytotoxic T candidate,Regulatory T cells
+GGGCCATGTTGACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGGTAACTCAGCTA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GGGTAACTCTAGTG-1,2,B cells,B cells
+GGGTAACTCTGGAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGGTTAACGTGCAT-1,5,NK candidate,CD16+ NK cells
+GGTAAAGAGCTAAC-1,5,NK candidate,NKT cells
+GGTACAACTGCAAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGTACATGAAAGCA-1,2,B cells,B cells
+GGTACATGAGCTCA-1,0,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+GGTACATGCGGTAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGTACATGGTTACG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GGTACATGTGGGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGTACTGAACTCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGTAGTACACCACA-1,1,Cytotoxic T candidate,MAIT cells
+GGTAGTACACTAGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGTAGTACCCTGTC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GGTAGTACGCCATA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGTAGTACTGTCTT-1,0,IL7R-associated T cells,NK cells
+GGTATCGAGACAAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGTATCGATGAACC-1,2,B cells,B cells
+GGTCAAACCAAAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGTCTAGAGAAACA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGTCTAGATAGCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGTGATACCGACTA-1,2,B cells,B cells
+GGTGATACGACTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGTGATACTGTTTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GGTGGAGAAACGGG-1,1,Cytotoxic T candidate,CD16+ NK cells
+GGTGGAGAAGTAGA-1,0,IL7R-associated T cells,Regulatory T cells
+GGTGGAGACAGATC-1,1,Cytotoxic T candidate,CD16+ NK cells
+GGTGGAGATCGATG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GGTGGAGATCTCTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GGTGGAGATTACTC-1,1,Cytotoxic T candidate,NK cells
+GGTTTACTACGCAT-1,1,Cytotoxic T candidate,MAIT cells
+GTAACGTGACCTCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAACGTGATCGGT-1,2,B cells,B cells
+GTAACGTGCAGCTA-1,2,B cells,B cells
+GTAACGTGGTTGAC-1,2,B cells,B cells
+GTAAGCACAACGGG-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+GTAAGCACTCATTC-1,2,B cells,B cells
+GTAAGCTGGTACCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAATAACCTTCTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAATAACGTTGTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTACCCTGACAGTC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GTACCCTGGAGCTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTACCCTGTCCTTA-1,1,Cytotoxic T candidate,NK cells
+GTACCCTGTGAACC-1,6,IL7R-associated T cells,Macrophages
+GTACGTGAACGTTG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GTACTTTGTCGACA-1,1,Cytotoxic T candidate,MAIT cells
+GTAGACTGAGATGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAGACTGTATTCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTAGCAACAGTCGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAGCAACCATTTC-1,2,B cells,B cells
+GTAGCAACGGTAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAGCATGCACTCC-1,2,B cells,Naive B cells
+GTAGCATGTAAGCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAGCCCTGACGTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTAGCTGAAGCTAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GTAGCTGAATTCGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GTAGGTACACGGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAGTGACCTCATT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTAGTGTGAGCGGA-1,5,NK candidate,CD16+ NK cells
+GTAGTGTGAGGCGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTAGTGTGTGGTTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTATCACTGGTAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTATCTACAGAAGT-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+GTATCTACGACGAG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GTATCTACGTTACG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GTATTAGAAACAGA-1,0,IL7R-associated T cells,Regulatory T cells
+GTATTAGAGGTCTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTATTCACACAGCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTATTCACGGGTGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GTCAACGACACTGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GTCAACGAGTGTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTCAACGATCAGGT-1,1,Cytotoxic T candidate,NK cells
+GTCAATCTACACCA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GTCAATCTGTAGCT-1,1,Cytotoxic T candidate,MAIT cells
+GTCAATCTTGTGGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTCACCTGCCTCCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GTCACCTGTCCCGT-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTCATACTAATCGC-1,2,B cells,B cells
+GTCATACTGCGATT-1,1,Cytotoxic T candidate,NK cells
+GTCATACTTCGCCT-1,8,Platelet-associated,Megakaryocytes/platelets
+GTCATACTTTACCT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GTCATACTTTGACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GTCCAAGAAAAACG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTCCACTGACCTCC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTCCACTGGGTACT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GTCCAGCTACGGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTCCCATGTGGTGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GTCGAATGAAGGCG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+GTCGACCTGAATGA-1,5,NK candidate,CD16+ NK cells
+GTCGACCTGTTCAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTCGCACTTGAGAA-1,2,B cells,B cells
+GTCTAACTGGTCTA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GTCTAGGAGCTTCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTGAACACACTCTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTGAACACTCAGGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTGACCCTTAAGCC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GTGATGACAAGTGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GTGATGACCTGAGT-1,2,B cells,B cells
+GTGATGACGGTTTG-1,1,Cytotoxic T candidate,MAIT cells
+GTGATTCTCATTTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GTGATTCTCTCTCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTGATTCTGGTTCA-1,5,NK candidate,CD16+ NK cells
+GTGATTCTGTCGAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTGATTCTTAGCGT-1,2,B cells,B cells
+GTGCCACTCAGGAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTGGATTGCACTAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GTGGATTGCGGAGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GTGGATTGTAACGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTGTACGATCAGTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTGTAGTGGGTACT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+GTGTATCTAGCCTA-1,2,B cells,B cells
+GTGTATCTAGTAGA-1,1,Cytotoxic T candidate,CD16+ NK cells
+GTGTATCTGTTACG-1,2,B cells,B cells
+GTGTCAGAAGCGTT-1,1,Cytotoxic T candidate,NK cells
+GTGTCAGAATGCTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTTAAAACCGAGAG-1,5,NK candidate,CD16+ NK cells
+GTTAAAACTTCGCC-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+GTTAAATGCTCGAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTTAAATGTCGACA-1,2,B cells,B cells
+GTTAACCTAGCTAC-1,1,Cytotoxic T candidate,Tem/Effector helper T cells
+GTTAACCTTGCTTT-1,7,Dendritic cell candidate,DC2
+GTTAGGTGCACTCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTTAGGTGCCAGTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTTAGGTGCCCAAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GTTAGGTGGAACTC-1,2,B cells,B cells
+GTTAGTCTAAGAAC-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+GTTATAGAGGACAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTTATGCTTTCATC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GTTCAACTGGGACA-1,5,NK candidate,CD16+ NK cells
+GTTCAACTTATGCG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+GTTGACGAGCCCTT-1,5,NK candidate,NK cells
+GTTGACGATATCGG-1,5,NK candidate,CD16+ NK cells
+GTTGAGTGGTCTTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTTGAGTGTGCTTT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+GTTGATCTGGGACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTTGATCTTTTCAC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+GTTGGATGTTTACC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+GTTGTACTATTCCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTTGTACTTTTGGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+GTTTAAGACCATGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+GTTTAAGACTGTCC-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+TAAACAACCAACCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TAAACAACGAATCC-1,2,B cells,B cells
+TAAAGACTCAGGAG-1,1,Cytotoxic T candidate,Regulatory T cells
+TAAATCGATGAGGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAACAATGTGCCCT-1,2,B cells,B cells
+TAACACCTTCGCTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAACACCTTCGTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAACACCTTGTTTC-1,8,Platelet-associated,Megakaryocytes/platelets
+TAACCGGACTTACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAACGTCTCAACCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAACGTCTCATTGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAACTAGAATTTCC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAACTAGACTTAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAACTAGATCTGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAACTCACGAGGAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAACTCACGTACAC-1,2,B cells,B cells
+TAACTCACGTATCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAACTCACTCTACT-1,5,NK candidate,CD16+ NK cells
+TAAGAACTGTGTCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAAGAGGACTAAGC-1,2,B cells,B cells
+TAAGAGGACTTGTT-1,5,NK candidate,CD16+ NK cells
+TAAGATACCCACAA-1,6,IL7R-associated T cells,Trm cytotoxic T cells
+TAAGATACGGTTCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAAGATTGCGTAGT-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TAAGATTGTTGCTT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAAGCGTGAGGTTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAAGCGTGGACAAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAAGCGTGGGAAAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAAGCGTGTGCTCC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TAAGGCTGCCATGA-1,0,IL7R-associated T cells,Trm cytotoxic T cells
+TAAGGCTGCTGCTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAAGGCTGTCTCGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAAGGGCTGCTGTA-1,0,IL7R-associated T cells,Regulatory T cells
+TAAGGGCTTTACTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TAAGTAACCGAGAG-1,2,B cells,B cells
+TAAGTAACCTCCAC-1,2,B cells,B cells
+TAAGTAACCTGTAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TAAGTAACTTGTCT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TAATGATGAGCGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAATGCCTCATGAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAATGCCTCGTCTC-1,5,NK candidate,CD16+ NK cells
+TAATGTGAAGATGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAATGTGACTGCAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAATGTGATTACTC-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+TACAAATGGGTACT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TACAATGAAAACAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TACAATGACTTAGG-1,0,IL7R-associated T cells,Type 17 helper T cells
+TACAATGATGCTAG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TACACACTCACACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TACACACTCTTACT-1,6,IL7R-associated T cells,Regulatory T cells
+TACATAGAACGCAT-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+TACATCACACGGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TACATCACCTGTTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TACATCACGCTAAC-1,2,B cells,B cells
+TACATCACTGAACC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TACCATTGAGGTTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TACCATTGCGGGAA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+TACCATTGGGGATG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TACCGGCTGTTGGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TACGAGTGATCTCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TACGAGTGATGCTG-1,4,FCGR3A-associated monocytes,Classical monocytes
+TACGAGTGCGGAGA-1,0,IL7R-associated T cells,Regulatory T cells
+TACGAGTGGTTGGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TACGATCTAGTGTC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TACGATCTCACTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TACGATCTTACGAC-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+TACGCAGAGAATCC-1,1,Cytotoxic T candidate,CD16+ NK cells
+TACGCCACATTCCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TACGCCACTCCCAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TACGCCACTCCGAA-1,2,B cells,B cells
+TACGCGCTCTTCTA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TACGGAACGCGTTA-1,2,B cells,Naive B cells
+TACGGCCTGGGACA-1,5,NK candidate,CD16+ NK cells
+TACGGCCTGTCCTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TACGTACTACGGAG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TACGTACTCAGTTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TACGTACTCCCGTT-1,2,B cells,B cells
+TACGTTACAGAAGT-1,0,IL7R-associated T cells,Regulatory T cells
+TACGTTACCAAGCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TACTAAGAAAGGTA-1,2,B cells,B cells
+TACTAAGAATCACG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TACTAAGATGATGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TACTAAGATTGCGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TACTACACGAGAGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TACTACACTTACCT-1,2,B cells,B cells
+TACTACTGAACCTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TACTACTGATGTCG-1,5,NK candidate,Tem/Temra cytotoxic T cells
+TACTACTGATTCTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TACTACTGTATGGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TACTCAACGGTCTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TACTCAACTGCTAG-1,2,B cells,B cells
+TACTCCCTCAGTTG-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+TACTCTGAATCGAC-1,5,NK candidate,CD16+ NK cells
+TACTCTGACGAGTT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TACTCTGATTGACG-1,2,B cells,B cells
+TACTGGGATCGATG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TACTGTTGAAAGCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TACTGTTGAGGCGA-1,5,NK candidate,CD16+ NK cells
+TACTGTTGCTGAAC-1,2,B cells,Plasma cells
+TACTTGACTCCTCG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TACTTGACTGGTGT-1,2,B cells,B cells
+TACTTTCTTTTGGG-1,1,Cytotoxic T candidate,MAIT cells
+TAGAAACTAATCGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGAAACTGCTTCC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAGAAACTGGGATG-1,1,Cytotoxic T candidate,NK cells
+TAGAATTGCGACAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGAATTGTATCGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGACGTGCTTGAG-1,6,IL7R-associated T cells,Regulatory T cells
+TAGACGTGTCGCTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGAGCACCTTACT-1,2,B cells,Naive B cells
+TAGATTGACTTGTT-1,2,B cells,B cells
+TAGATTGAGGCATT-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+TAGCATCTCAGCTA-1,5,NK candidate,CD16+ NK cells
+TAGCATCTCCCTCA-1,0,IL7R-associated T cells,Trm cytotoxic T cells
+TAGCATCTGCTGTA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TAGCATCTGGGACA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TAGCATCTTGTCGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGCCCACAAAAGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TAGCCCACAGCCAT-1,1,Cytotoxic T candidate,MAIT cells
+TAGCCCACAGCTAC-1,5,NK candidate,CD16+ NK cells
+TAGCCCACCCACAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGCCCTGCGGAGA-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+TAGCCGCTTACGAC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TAGCCGCTTACTTC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TAGCCGCTTTCCAT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+TAGCTACTGAATAG-1,2,B cells,B cells
+TAGCTACTGTAGCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGCTACTTTTGCT-1,1,Cytotoxic T candidate,MAIT cells
+TAGGACTGTGCTGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGGAGCTAAGGCG-1,2,B cells,B cells
+TAGGAGCTGAGGGT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TAGGAGCTTGCATG-1,2,B cells,B cells
+TAGGCAACCGTCTC-1,2,B cells,B cells
+TAGGCATGCTCTCG-1,7,Dendritic cell candidate,pDC
+TAGGCATGGCGAGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TAGGCTGATGCCTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAGGGACTGAACTC-1,5,NK candidate,CD16+ NK cells
+TAGGTCGACACTGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TAGGTCGAGGATCT-1,2,B cells,B cells
+TAGGTGACACACTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TAGGTGACACGTTG-1,2,B cells,B cells
+TAGGTGTGTTCTGT-1,0,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+TAGGTTCTGAAGGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGGTTCTTCTTAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TAGGTTCTTGCTGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAGTAAACCTCGCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGTAAACGTCACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGTAATGAGATCC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TAGTACCTAAGAAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TAGTATGATCTTAC-1,2,B cells,B cells
+TAGTATGATTCTCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TAGTCTTGGCTGTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TAGTCTTGGGACTT-1,1,Cytotoxic T candidate,MAIT cells
+TAGTCTTGTGGAAA-1,1,Cytotoxic T candidate,MAIT cells
+TAGTGGTGAAGTGA-1,5,NK candidate,CD16+ NK cells
+TAGTTAGAACCACA-1,5,NK candidate,CD16+ NK cells
+TAGTTAGATGAACC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TATAAGACAACAGA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TATAAGACAGCTCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TATAAGTGACACCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TATAAGTGTATCGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TATAAGTGTGGTGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TATACAGAACCCTC-1,1,Cytotoxic T candidate,NKT cells
+TATACAGAAGAACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TATACAGATCCAGA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TATACCACCTGATG-1,2,B cells,B cells
+TATACGCTACCAAC-1,0,IL7R-associated T cells,Type 17 helper T cells
+TATAGATGGACGGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TATAGATGTTCCGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TATCACTGACTGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TATCCAACCAGCTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TATCCAACTCTCTA-1,1,Cytotoxic T candidate,MAIT cells
+TATCGACTACTAGC-1,1,Cytotoxic T candidate,NK cells
+TATCGACTCGATAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TATCGTACAGATGA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TATCGTACATTCCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TATCTCGAGAGATA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TATCTGACAGGTTC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TATCTGACTGTTTC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TATCTTCTAAACAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TATGAATGGAGGAC-1,5,NK candidate,Tem/Temra cytotoxic T cells
+TATGAATGTTTGCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TATGCGGATAACCG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TATGGGTGCATCAG-1,5,NK candidate,CD16+ NK cells
+TATGGGTGCTAGCA-1,2,B cells,B cells
+TATGGTCTCTACCC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TATGTCACGGAACG-1,2,B cells,B cells
+TATGTCACTAACCG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TATGTCACTTCTCA-1,2,B cells,B cells
+TATGTGCTCCGATA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TATGTGCTGGATTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TATTGCTGAAGAAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TATTGCTGTCTGGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TATTGCTGTGCACA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TATTTCCTATTGGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TATTTCCTGGAGGT-1,5,NK candidate,CD16+ NK cells
+TATTTCCTGGTGTT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCAACACTGTTTGG-1,5,NK candidate,CD16+ NK cells
+TCAAGGACAGCGTT-1,6,IL7R-associated T cells,Regulatory T cells
+TCAAGGACATTCTC-1,1,Cytotoxic T candidate,NKT cells
+TCAAGGACGGTGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCAATCACACTCTT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TCAATCACAGTCGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCACAACTATGTGC-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+TCACAACTTTGCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCACATACACTTTC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TCACATACAGGGTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCACCCGAGACGGA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+TCACCGTGCTCGCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCACCTCTACGACT-1,1,Cytotoxic T candidate,MAIT cells
+TCACCTCTTCCAAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCACGAGAGGAGGT-1,2,B cells,B cells
+TCACTATGGGGCAA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TCACTATGGTTGTG-1,2,B cells,B cells
+TCAGACGACGCTAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCAGACGACGTTAG-1,5,NK candidate,CD16+ NK cells
+TCAGAGACTCCAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCAGCAGACTCCAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCAGCGCTCTAGTG-1,1,Cytotoxic T candidate,MAIT cells
+TCAGCGCTGGATCT-1,2,B cells,B cells
+TCAGCGCTGGTATC-1,1,Cytotoxic T candidate,MAIT cells
+TCAGGATGAAGTAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCAGGATGCCTTTA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCAGTGGAAGATCC-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+TCAGTTACCTACGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCAGTTACTAGAAG-1,0,IL7R-associated T cells,Regulatory T cells
+TCATCAACCCGATA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCATCAACTGTTCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCATCATGCAGTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCATCCCTTACTGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TCATTCGATACAGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCCACGTGGAAACA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TCCACTCTACACTG-1,0,IL7R-associated T cells,Regulatory T cells
+TCCACTCTGAGCTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCCACTCTTACTTC-1,2,B cells,B cells
+TCCATAACAAAGTG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TCCATAACCGTAGT-1,2,B cells,B cells
+TCCATAACGATGAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TCCATAACTACGCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCCATCCTCCCTAC-1,1,Cytotoxic T candidate,NK cells
+TCCCACGATCATTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCCCATCTCAAAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCCCGAACACAGTC-1,5,NK candidate,CD16+ NK cells
+TCCCGAACTTCGCC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCCCGATGAGATCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TCCCGATGCCTGAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCCCGATGCTGTGA-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+TCCCTACTCAACTG-1,2,B cells,B cells
+TCCGAAGACAATCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCCGAAGACGTTAG-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+TCCGGACTGAGGTG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCCGGACTGTACGT-1,1,Cytotoxic T candidate,MAIT cells
+TCCTAAACATCGAC-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+TCCTAAACCGAGAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TCCTAAACCGCATA-1,5,NK candidate,CD16+ NK cells
+TCCTAATGGTTTGG-1,1,Cytotoxic T candidate,NKT cells
+TCCTACCTGTCGTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCCTATGAAAAGCA-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+TCGAATCTCTGGTA-1,1,Cytotoxic T candidate,NK cells
+TCGACCTGCCGATA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCGACGCTTCTATC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCGACGCTTTGACG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCGAGAACGACAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCGAGAACGTTAGC-1,0,IL7R-associated T cells,Regulatory T cells
+TCGAGCCTATCAGC-1,2,B cells,B cells
+TCGAGCCTGCGAGA-1,1,Cytotoxic T candidate,MAIT cells
+TCGAGCCTTGTGAC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TCGATACTATTCCT-1,6,IL7R-associated T cells,Trm cytotoxic T cells
+TCGATACTTGCACA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TCGATTTGATGCCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCGATTTGCACTCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCGATTTGCAGCTA-1,5,NK candidate,CD16+ NK cells
+TCGATTTGCCTACC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCGATTTGTCGTGA-1,2,B cells,B cells
+TCGCACACCATCAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCGCAGCTAGATCC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TCGCCATGAGACTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCGCCATGTGGTCA-1,2,B cells,B cells
+TCGGACCTAACAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCGGACCTATAAGG-1,2,B cells,B cells
+TCGGACCTGTACAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCGGTAGAGTAGGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCGGTAGATCCCAC-1,2,B cells,B cells
+TCGTAGGATCGACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCGTGAGAACTGTG-1,2,B cells,B cells
+TCGTTATGGACAAA-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TCTAACACCAGTTG-1,5,NK candidate,CD16+ NK cells
+TCTAACACGAGCAG-1,7,Dendritic cell candidate,DC
+TCTAACTGAACCAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCTAAGCTAATGCC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCTAAGCTTAGTCG-1,1,Cytotoxic T candidate,NK cells
+TCTAAGCTTCTAGG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCTAAGCTTGTTCT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCTAAGCTTTCGCC-1,2,B cells,B cells
+TCTACAACGACTAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCTAGACTTAGAAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCTAGTTGCACCAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TCTATGTGAAGAGT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+TCTATGTGAGTCTG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TCTCAAACCTAAGC-1,2,B cells,B cells
+TCTCTAGAATTTCC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TCTGATACACGTGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TCTGATACTCGCCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TCTTACGAACCTGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TCTTCAGAGCTACA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+TCTTGATGCGGAGA-1,1,Cytotoxic T candidate,NK cells
+TGAAATTGGTGAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGAACCGAAAACGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGAACCGACTACTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGAACCGATTCGGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGAAGCACTCACGA-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+TGAAGCTGAACGAA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGAAGCTGAGACTC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGAAGCTGCATGGT-1,2,B cells,B cells
+TGAAGCTGCGTAAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGAATAACCACTTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGAATAACTCCCAC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TGACACGACCTTAT-1,2,B cells,B cells
+TGACCAGACAACCA-1,0,IL7R-associated T cells,Regulatory T cells
+TGACCAGAGGATTC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGACCGCTAAAAGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGACCGCTCTGCAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGACGATGCAAAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGACGCCTGTACCA-1,0,IL7R-associated T cells,Regulatory T cells
+TGACGCCTTTACTC-1,0,IL7R-associated T cells,Regulatory T cells
+TGACTGGAAGAGAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGACTGGACCGTAA-1,0,IL7R-associated T cells,Regulatory T cells
+TGACTGGACGCAAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGACTGGAGGACAG-1,2,B cells,B cells
+TGACTGGATTCTCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGACTTACACACCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGACTTACAGTCTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGACTTTGCGCATA-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGACTTTGTTTGTC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGAGACACAAGGTA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGAGACACTCAAGC-1,1,Cytotoxic T candidate,Type 1 helper T cells
+TGAGACACTGTGCA-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+TGAGCTGAATGCTG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGAGCTGACTGGAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGAGCTGAGCGAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGAGCTGATGCTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGAGGACTCTCATT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGAGGACTTCATTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGAGGTACGAACCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGAGTCGAGTTACG-1,2,B cells,B cells
+TGAGTGACTGAGCT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGATAAACGAATCC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGATAAACTCCGTC-1,5,NK candidate,CD16+ NK cells
+TGATAAACTTTCAC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGATACCTCACTAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGATACCTGTTGGT-1,6,IL7R-associated T cells,DC
+TGATACCTTATGCG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGATACCTTGAAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGATATGAACCTTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGATCACTAGCATC-1,1,Cytotoxic T candidate,MAIT cells
+TGATCACTCTCGCT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGATCACTTCTACT-1,2,B cells,B cells
+TGATCGGACTGACA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGATCGGAGGAGCA-1,2,B cells,B cells
+TGATCGGATATGCG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGATTAGACATTGG-1,0,IL7R-associated T cells,Regulatory T cells
+TGATTAGATGACTG-1,2,B cells,B cells
+TGATTAGATGCTAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGATTCACTATGCG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGATTCACTGTCAG-1,2,B cells,B cells
+TGATTCTGCCGAAT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGATTCTGCTCTTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGCAAGTGAGAACA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGCAAGTGGGTAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGCAATCTTCAGGT-1,7,Dendritic cell candidate,DC
+TGCACAGACGACAT-1,5,NK candidate,CD16+ NK cells
+TGCCAAGAGCAGTT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGCCAAGATCTCTA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGCCACTGAACGTC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGCCACTGCGATAC-1,5,NK candidate,CD16+ NK cells
+TGCCAGCTTGGCAT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGCCCAACAGCAAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGCCCAACCGCATA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGCCGACTCTCCCA-1,2,B cells,B cells
+TGCGAAACAGTCAC-1,2,B cells,B cells
+TGCGAAACGTTGCA-1,2,B cells,B cells
+TGCGATGAACGGTT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGCGATGACCTCGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGCGATGACTAGTG-1,2,B cells,B cells
+TGCGATGACTGCTC-1,2,B cells,B cells
+TGCGATGACTTGCC-1,2,B cells,B cells
+TGCGATGAGTGCTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGCGCACTCTTGAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGCGTAGAATAAGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGCGTAGACGGGAA-1,2,B cells,B cells
+TGCGTAGATGGTCA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGCTAGGAAACCGT-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TGCTAGGATAGTCG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGCTATACTGCTGA-1,1,Cytotoxic T candidate,NKT cells
+TGCTGAGAGAGCAG-1,5,NK candidate,CD16+ NK cells
+TGCTGAGATTATCC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGAAAGACTCTCG-1,2,B cells,B cells
+TGGAAAGAGCGATT-1,0,IL7R-associated T cells,Regulatory T cells
+TGGAAAGAGGTCAT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGGAAAGATATGGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGAACACAAACAG-1,5,NK candidate,CD16+ NK cells
+TGGAACACGCTAAC-1,1,Cytotoxic T candidate,MAIT cells
+TGGAAGCTCAGATC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGGACCCTACACTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGGACCCTCATGGT-1,1,Cytotoxic T candidate,MAIT cells
+TGGACCCTGGTACT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGGACTGAGTATGC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGAGACTATCAGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGGAGACTTCAAGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGAGACTTGACCA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TGGAGGGACGGAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGGAGGGAGCTATG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGGATCGATAAAGG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGATGTGACCTAG-1,2,B cells,B cells
+TGGATGTGATGTCG-1,1,Cytotoxic T candidate,MAIT cells
+TGGATGTGTGAAGA-1,2,B cells,B cells
+TGGATTCTCATACG-1,1,Cytotoxic T candidate,MAIT cells
+TGGCAATGCTTGTT-1,2,B cells,B cells
+TGGCAATGGAGGGT-1,1,Cytotoxic T candidate,MAIT cells
+TGGCACCTTCACGA-1,6,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+TGGCACCTTCAGTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGGGTATGAAGAGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGGTATGCACAAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGGTATGGTACGT-1,2,B cells,B cells
+TGGGTATGTTTGGG-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+TGGTAGACATGCCA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGGTAGACCCTCAC-1,5,NK candidate,CD16+ NK cells
+TGGTAGACCTGATG-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGTAGTGCACTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGGTATCTAAACAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGGTATCTCTTCCG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGTCAGACCCAAA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGGTTACTGACGTT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGGTTACTGTTCTT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGTAACCTAGAGGC-1,0,IL7R-associated T cells,Type 17 helper T cells
+TGTAACCTTGCCTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGTAATGACACAAC-1,5,NK candidate,CD16+ NK cells
+TGTAATGAGGTAAA-1,5,NK candidate,CD16+ NK cells
+TGTACTTGCTCTAT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGTAGGTGCGAGAG-1,2,B cells,B cells
+TGTAGGTGCTATGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGTAGGTGCTCTAT-1,7,Dendritic cell candidate,Macrophages
+TGTAGGTGTGCTGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TGTAGTCTTCCAGA-1,0,IL7R-associated T cells,Megakaryocyte precursor
+TGTAGTCTTGCACA-1,1,Cytotoxic T candidate,MAIT cells
+TGTATCTGTTAGGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TGTATGCTCATGGT-1,2,B cells,B cells
+TGTATGCTGTAGGG-1,1,Cytotoxic T candidate,Tcm/Naive helper T cells
+TGTATGCTTTCATC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGTCAGGAATACCG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TGTCAGGAGATGAA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGTCTAACCCCTTG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGTGACGATTCTCA-1,1,Cytotoxic T candidate,Macrophages
+TGTGAGACTGTCAG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGTGAGACTTGAGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGTGAGTGACCACA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TGTGAGTGAGTGCT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGTGAGTGGAGATA-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TGTGATCTCTCTAT-1,2,B cells,B cells
+TGTGATCTGACACT-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+TGTGGATGGCCAAT-1,2,B cells,B cells
+TGTTAAGACAAAGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGTTAAGATAAGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TGTTAAGATTGGCA-1,3,FCN1/S100A9-associated monocytes,Myelocytes
+TGTTACACCGCATA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGTTACACGACTAC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TGTTACTGGCTACA-1,1,Cytotoxic T candidate,MAIT cells
+TGTTACTGTAGTCG-1,1,Cytotoxic T candidate,NK cells
+TTAACCACCGTAAC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTAACCACTAAGGA-1,1,Cytotoxic T candidate,NK cells
+TTAACCACTCAGAC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TTACACACGTGTTG-1,6,IL7R-associated T cells,Tem/Effector helper T cells
+TTACACACTCCTAT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTACCATGAATCGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTACCATGGTTGAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTACCATGTGTCTT-1,1,Cytotoxic T candidate,CD16+ NK cells
+TTACCATGTTGTGG-1,2,B cells,B cells
+TTACGACTGAGAGC-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTACGACTTGACAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTACGTACGTTCAG-1,8,Platelet-associated,Megakaryocytes/platelets
+TTACTCGAACGTTG-1,9,Uncertain mixed-marker group,Plasmablasts
+TTACTCGAAGAATG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTACTCGACGCAAT-1,7,Dendritic cell candidate,DC
+TTACTCGAGGGTGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTACTCGATCTACT-1,5,NK candidate,CD16+ NK cells
+TTAGAATGTGGTGT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTAGAATGTGTAGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTAGACCTCCTACC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTAGACCTCCTTTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTAGCTACAACCGT-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTAGCTACTGTCCC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTAGCTACTTTCGT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTAGGGACGCGAAG-1,1,Cytotoxic T candidate,MAIT cells
+TTAGGGTGCTGGAT-1,2,B cells,B cells
+TTAGGGTGTCCTGC-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTAGGTCTACTTTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTAGTCACCAGTTG-1,0,IL7R-associated T cells,Type 17 helper T cells
+TTAGTCTGAAAGCA-1,2,B cells,B cells
+TTAGTCTGCCAACA-1,5,NK candidate,CD16+ NK cells
+TTAGTCTGTGCACA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTATCCGACTAGTG-1,2,B cells,B cells
+TTATCCGAGAAAGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTATGAGAGATAAG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTATGCACGTCACA-1,2,B cells,B cells
+TTATGGCTTATGGC-1,7,Dendritic cell candidate,DC2
+TTATTCCTATGCTG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTATTCCTGGACAG-1,2,B cells,B cells
+TTATTCCTGGTACT-1,2,B cells,B cells
+TTATTCCTTCGTGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCAAAGATAAAGG-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TTCAACACAACAGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCAACACCCCAAA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCAACACGGACGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTCAAGCTAAGAAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCAAGCTAGATGA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCAAGCTGTTGAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCAAGCTTCCAAG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCAAGCTTGATGC-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCAAGCTTTCGCC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTCACAACCCGTTC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCACAACGTCTGA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTCAGACTACCCAA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCAGACTCTCGAA-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTCAGTACCGACTA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCAGTACTCAAGC-1,0,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTCAGTACTCCTAT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCAGTTGCCAAGT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTCAGTTGTCCTTA-1,7,Dendritic cell candidate,DC
+TTCAGTTGTCTAGG-1,6,IL7R-associated T cells,Trm cytotoxic T cells
+TTCATCGAGGTGGA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCATGTGTGGTGT-1,0,IL7R-associated T cells,Regulatory T cells
+TTCATTCTATGTCG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCATTCTTCTCTA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCCAAACCTATGG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCCAAACCTCCCA-1,2,B cells,B cells
+TTCCAAACTCCCAC-1,5,NK candidate,CD16+ NK cells
+TTCCAAACTTGACG-1,1,Cytotoxic T candidate,Tem/Temra cytotoxic T cells
+TTCCATGACGAGAG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCCATGACTGTCC-1,6,IL7R-associated T cells,DC
+TTCCCACTTGAGGG-1,5,NK candidate,CD16+ NK cells
+TTCCCACTTGTCTT-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+TTCCTAGAAAGTGA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCCTAGACTAGTG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTCGAGGACTCTAT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCGAGGAGGGCAA-1,0,IL7R-associated T cells,Tem/Trm cytotoxic T cells
+TTCGATTGAGCATC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTCGGAGAATGCCA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCGGAGATGTGCA-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCGTATGAAAAGC-1,1,Cytotoxic T candidate,NK cells
+TTCGTATGGATAGA-1,1,Cytotoxic T candidate,NK cells
+TTCGTATGGTCTGA-1,0,IL7R-associated T cells,B cells
+TTCGTATGTCCTTA-1,3,FCN1/S100A9-associated monocytes,Non-classical monocytes
+TTCTACGAACGTAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCTACGAGTTGGT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTCTAGTGACACGT-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTCTAGTGCATGAC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTCTAGTGGAGAGC-1,5,NK candidate,CD16+ NK cells
+TTCTAGTGGTCACA-1,4,FCGR3A-associated monocytes,Classical monocytes
+TTCTCAGAAGAGAT-1,0,IL7R-associated T cells,Tcm/Naive helper T cells
+TTCTCAGAAGCATC-1,2,B cells,B cells
+TTCTCAGATGGAGG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTCTGATGGAGACG-1,5,NK candidate,CD16+ NK cells
+TTCTTACTCTGGAT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTGAACCTCCTTGC-1,2,B cells,Naive B cells
+TTGAATGAACTACG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTGAATGACTTACT-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTGAATGATCTCAT-1,2,B cells,B cells
+TTGACACTCTGTAG-1,6,IL7R-associated T cells,DC
+TTGACACTGATAAG-1,2,B cells,B cells
+TTGAGGACAGAACA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTGAGGACTACGCA-1,7,Dendritic cell candidate,DC
+TTGAGGTGGACGGA-1,6,IL7R-associated T cells,Regulatory T cells
+TTGCATTGAGCTAC-1,1,Cytotoxic T candidate,Tcm/Naive cytotoxic T cells
+TTGCATTGCTAAGC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTGCATTGTGACTG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTGCTAACACCAAC-1,1,Cytotoxic T candidate,Tem/Trm cytotoxic T cells
+TTGCTAACACGCTA-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTGCTAACCACTCC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTGCTATGGTACGT-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTGCTATGGTAGGG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTGGAGACCAATCG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTGGAGACGCTATG-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTGGAGACTATGGC-1,2,B cells,B cells
+TTGGGAACTGAACC-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTGGTACTACTGGT-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTGGTACTCTTAGG-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTGGTACTGAATCC-1,2,B cells,B cells
+TTGGTACTGGATTC-1,2,B cells,B cells
+TTGTACACGTTGTG-1,2,B cells,B cells
+TTGTACACTTGCAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTGTAGCTAGCTCA-1,0,IL7R-associated T cells,Regulatory T cells
+TTGTCATGGACGGA-1,5,NK candidate,CD16+ NK cells
+TTTAGAGATCCTCG-1,2,B cells,B cells
+TTTAGCTGATACCG-1,6,IL7R-associated T cells,Tcm/Naive cytotoxic T cells
+TTTAGCTGGATACC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTTAGGCTCCTTTA-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTTATCCTGTTGTG-1,4,FCGR3A-associated monocytes,Non-classical monocytes
+TTTCACGAGGTTCA-1,6,IL7R-associated T cells,Tcm/Naive helper T cells
+TTTCAGTGGAAGGC-1,1,Cytotoxic T candidate,MAIT cells
+TTTCAGTGTCACGA-1,2,B cells,B cells
+TTTCAGTGTCTATC-1,3,FCN1/S100A9-associated monocytes,Classical monocytes
+TTTCAGTGTGCAGT-1,2,B cells,B cells
+TTTCCAGAGGTGAG-1,0,IL7R-associated T cells,Tem/Effector helper T cells
+TTTCGAACACCTGA-1,7,Dendritic cell candidate,pDC
+TTTCGAACTCTCAT-1,7,Dendritic cell candidate,Classical monocytes
+TTTCTACTGAGGCA-1,2,B cells,B cells
+TTTCTACTTCCTCG-1,2,B cells,B cells
+TTTGCATGAGAGGC-1,2,B cells,B cells
+TTTGCATGCCTCAC-1,0,IL7R-associated T cells,Tcm/Naive helper T cells

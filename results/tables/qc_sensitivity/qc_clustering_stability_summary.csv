@@ -1,0 +1,3 @@
+variant,cells,genes,clusters,shared_cells_with_mt8,ARI_vs_mt8
+mt5,2611,13633,10,2611,0.7567952307504884
+mt10,2662,13649,10,2660,0.8790504762347043

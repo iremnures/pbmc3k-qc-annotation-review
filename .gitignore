@@ -1,0 +1,13 @@
+data/
+*.h5ad
+*.h5
+*.loom
+*.pkl
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+logs/
+*.log
+.DS_Store

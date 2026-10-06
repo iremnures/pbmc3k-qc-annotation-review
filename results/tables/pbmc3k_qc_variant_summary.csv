@@ -1,0 +1,4 @@
+variant,starting_cells,mt_above_threshold,predicted_doublets,both_flags,removed_unique_cells,retained_cells,retained_genes
+mt5,2700,57,32,0,89,2611,32738
+mt8,2700,8,32,0,40,2660,32738
+mt10,2700,6,32,0,38,2662,32738

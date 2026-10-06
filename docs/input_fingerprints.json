@@ -1,0 +1,7 @@
+{
+  "dataset": "Scanpy PBMC3k; cell-called, unnormalized counts",
+  "input_file": "data/raw/pbmc3k_raw.h5ad",
+  "input_sha256": "89a96f1beaa2dd83a687666d3f19a4513ac27a2a2d12581fcd77afed7ea653a1",
+  "reference_model": "Immune_All_Low.pkl",
+  "reference_model_sha256": "290874d35dac039d4c9218c343fde4aac1077709b72a331ce7266f6828c36502"
+}
